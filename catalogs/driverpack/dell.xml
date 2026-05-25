@@ -1,4 +1,4 @@
-<DriverPackManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" baseLocation="downloads.dell.com" dateTime="2026-05-15T07:25:10" releaseID="X54Y7" version="2026.05.04" application="OnDemandCabBuilder" schemaVersion="2.3" xsi:noNamespaceSchemaLocation="https://downloads.dell.com/catalog/clientschema/4.0/DriverPackManifest.xsd" baseLocationAccessProtocols="HTTP FTP" deltaBase="http://en.community.dell.com" xmlns="openmanage/cm/dm">
+<DriverPackManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" baseLocation="downloads.dell.com" dateTime="2026-05-21T10:40:30" releaseID="93F0F" version="2026.05.04" application="OnDemandCabBuilder" schemaVersion="2.3" xsi:noNamespaceSchemaLocation="https://downloads.dell.com/catalog/clientschema/4.0/DriverPackManifest.xsd" baseLocationAccessProtocols="HTTP FTP" deltaBase="http://en.community.dell.com" xmlns="openmanage/cm/dm">
   <DriverPackage format="cab" hashMD5="4B4B4330EBFF3E9F353D2C3D7B4450F6" size="72429980" dateTime="2014-07-11T00:00:00" vendorVersion="1.0" dellVersion="A01" path="FOLDER02291001M/1/160-vista-A01-JFH0G.CAB" releaseID="JFH0G" delta="/techcenter/enterprise-client/w/wiki/optiplex-160-vista-driver-cab" type="win">
     <Name>
       <Display lang="en"><![CDATA[160-vista-A01-JFH0G.CAB]]></Display>
@@ -51465,75 +51465,6 @@
       </Cryptography>
     </DriverPackMetadataInfo>
   </DriverPackage>
-  <DriverPackage format="exe" hashMD5="E9906D5E303525AA0C65840295B230F8" size="2682976480" dateTime="2026-05-06T00:11:27" vendorVersion="1.0" dellVersion="A00" path="FOLDER14508696M/1/P514260-V82V2_Win11_1.0_A00.exe" releaseID="V82V2" delta="" type="win">
-    <Name>
-      <Display lang="en"><![CDATA[P514260-V82V2_Win11_1.0_A00.exe]]></Display>
-    </Name>
-    <Description>
-      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
-1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
-2) Create a system-level optimized deployment sequence
-3) Setup an appropriate boot control sequence.
-4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
-    </Description>
-    <SupportedOperatingSystems>
-      <OperatingSystem osCode="Windows11" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
-        <Display lang="en"><![CDATA[ Windows 11 x64 ]]></Display>
-        <SupportedLanguages>
-          <Language lang="en">English</Language>
-        </SupportedLanguages>
-      </OperatingSystem>
-    </SupportedOperatingSystems>
-    <SupportedSystems>
-      <Brand key="58" prefix="DPL">
-        <Display lang="en"><![CDATA[ Dell Pro Laptops ]]></Display>
-        <Model systemID="0E1C" name="Dell Pro 5 14 P514260" rtsDate="2026-04-29T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ Dell Pro 5 14 P514260 ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="58" prefix="DPL">
-        <Display lang="en"><![CDATA[ Dell Pro Laptops ]]></Display>
-        <Model systemID="0E33" name="Dell Pro 5 14 P514260" rtsDate="2026-04-29T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ Dell Pro 5 14 P514260 ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="58" prefix="DPL">
-        <Display lang="en"><![CDATA[ Dell Pro Laptops ]]></Display>
-        <Model systemID="0E35" name="Dell Pro 5 14 P514260" rtsDate="2026-04-29T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ Dell Pro 5 14 P514260 ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="58" prefix="DPL">
-        <Display lang="en"><![CDATA[ Dell Pro Laptops ]]></Display>
-        <Model systemID="0E3E" name="Dell Pro 5 14 P514260" rtsDate="2026-04-29T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ Dell Pro 5 14 P514260 ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="58" prefix="DPL">
-        <Display lang="en"><![CDATA[ Dell Pro Laptops ]]></Display>
-        <Model systemID="0E3C" name="Dell Pro 5 14 P514260" rtsDate="2026-04-29T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ Dell Pro 5 14 P514260 ]]></Display>
-        </Model>
-      </Brand>
-    </SupportedSystems>
-    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=V82V2">
-      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
-    </ImportantInfo>
-    <Cryptography>
-      <Hash algorithm="MD5">E9906D5E303525AA0C65840295B230F8</Hash>
-      <Hash algorithm="SHA1">19FCE4A8099B0D98715D2C222A0F4A79F5E15C49</Hash>
-      <Hash algorithm="SHA256">E2DA2E4D6495278DEA8893BA1F349171E25939F27CAE19D6433DECB5BC89CB79</Hash>
-    </Cryptography>
-    <DriverPackMetadataInfo>
-      <Size>6724523</Size>
-      <path>FOLDER14508667M/1/P514260-V82V2_Win11_1.0_A00.xml</path>
-      <Cryptography>
-        <Hash algorithm="MD5">44A43BB253EC0927E70C7B94636D31A4</Hash>
-        <Hash algorithm="SHA1">C8AD13EC49C37AAFA0C3746701E2CF4CC9930ABF</Hash>
-        <Hash algorithm="SHA256">7ABAE65629FA517C24BA5FE47BFE403C56998A5AE74D6CC9F558CD44F83A33A2</Hash>
-      </Cryptography>
-    </DriverPackMetadataInfo>
-  </DriverPackage>
   <DriverPackage format="exe" hashMD5="54C26C43C7B19A5A6F2FBD0B20D5FBEC" size="1604083344" dateTime="2026-05-06T00:11:27" vendorVersion="1.0" dellVersion="A00" path="FOLDER14508662M/1/P7x3260-D4YVK_Win11_1.0_A00.exe" releaseID="D4YVK" delta="" type="win">
     <Name>
       <Display lang="en"><![CDATA[P7x3260-D4YVK_Win11_1.0_A00.exe]]></Display>
@@ -51594,69 +51525,6 @@
         <Hash algorithm="MD5">4223E3EF0BB16418D1CBF1824D4887BD</Hash>
         <Hash algorithm="SHA1">9ABF53BA2623422123B29BF65AFC925F41ECDD7E</Hash>
         <Hash algorithm="SHA256">A5C995F9764FEA028E851A703A5DD62A92D66D92DC2AAA618C23F6274E03A701</Hash>
-      </Cryptography>
-    </DriverPackMetadataInfo>
-  </DriverPackage>
-  <DriverPackage format="exe" hashMD5="F0C96E6DD156E98E7692E5FA9E52808B" size="2237883232" dateTime="2026-05-06T00:11:27" vendorVersion="1.0" dellVersion="A00" path="FOLDER14508675M/1/P7x4260-TT85J_Win11_1.0_A00.exe" releaseID="TT85J" delta="" type="win">
-    <Name>
-      <Display lang="en"><![CDATA[P7x4260-TT85J_Win11_1.0_A00.exe]]></Display>
-    </Name>
-    <Description>
-      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
-1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
-2) Create a system-level optimized deployment sequence
-3) Setup an appropriate boot control sequence.
-4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
-    </Description>
-    <SupportedOperatingSystems>
-      <OperatingSystem osCode="Windows11" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
-        <Display lang="en"><![CDATA[ Windows 11 x64 ]]></Display>
-        <SupportedLanguages>
-          <Language lang="en">English</Language>
-        </SupportedLanguages>
-      </OperatingSystem>
-    </SupportedOperatingSystems>
-    <SupportedSystems>
-      <Brand key="58" prefix="DPL">
-        <Display lang="en"><![CDATA[ Dell Pro Laptops ]]></Display>
-        <Model systemID="0E38" name="Dell Pro 7 14 P714260/Dell Pro 7 14 2-in-1 P704260" rtsDate="2026-04-29T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ Dell Pro 7 14 P714260/Dell Pro 7 14 2-in-1 P704260 ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="58" prefix="DPL">
-        <Display lang="en"><![CDATA[ Dell Pro Laptops ]]></Display>
-        <Model systemID="0E1D" name="Dell Pro 7 14 P714260/Dell Pro 7 14 2-in-1 P704260" rtsDate="2026-04-29T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ Dell Pro 7 14 P714260/Dell Pro 7 14 2-in-1 P704260 ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="58" prefix="DPL">
-        <Display lang="en"><![CDATA[ Dell Pro Laptops ]]></Display>
-        <Model systemID="0E85" name="Dell Pro 7 14 P714260/Dell Pro 7 14 2-in-1 P704260" rtsDate="2026-04-29T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ Dell Pro 7 14 P714260/Dell Pro 7 14 2-in-1 P704260 ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="58" prefix="DPL">
-        <Display lang="en"><![CDATA[ Dell Pro Laptops ]]></Display>
-        <Model systemID="0E84" name="Dell Pro 7 14 P714260/Dell Pro 7 14 2-in-1 P704260" rtsDate="2026-04-29T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ Dell Pro 7 14 P714260/Dell Pro 7 14 2-in-1 P704260 ]]></Display>
-        </Model>
-      </Brand>
-    </SupportedSystems>
-    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=TT85J">
-      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
-    </ImportantInfo>
-    <Cryptography>
-      <Hash algorithm="MD5">F0C96E6DD156E98E7692E5FA9E52808B</Hash>
-      <Hash algorithm="SHA1">F7BD9E405C7B881E4837BA86ECC341E5995D6734</Hash>
-      <Hash algorithm="SHA256">8A920091BA5770A0B2AA58446060D18FD70B971368F966FC07E42CB8C0B8A802</Hash>
-    </Cryptography>
-    <DriverPackMetadataInfo>
-      <Size>5164918</Size>
-      <path>FOLDER14508648M/1/P7x4260-TT85J_Win11_1.0_A00.xml</path>
-      <Cryptography>
-        <Hash algorithm="MD5">19578BF2FC44AEE8D28B8E1A05D5D358</Hash>
-        <Hash algorithm="SHA1">53613540B869C49940E244C6D3BF7DEB18FBB203</Hash>
-        <Hash algorithm="SHA256">7971550EB6DD4E0F5155F274BE867C55D8D3E97E2F64B6F5B550925913C71E65</Hash>
       </Cryptography>
     </DriverPackMetadataInfo>
   </DriverPackage>
@@ -54663,6 +54531,138 @@
         <Hash algorithm="MD5">DF7E62E992B1F2E5F60C0F097E483102</Hash>
         <Hash algorithm="SHA1">C8BEE292143C12EE96770D09864B1550211B756F</Hash>
         <Hash algorithm="SHA256">0FEAE7EBB3984779BC841E081C7875AA5EDFC696C086BF521A32524981E67E4A</Hash>
+      </Cryptography>
+    </DriverPackMetadataInfo>
+  </DriverPackage>
+  <DriverPackage format="exe" hashMD5="033580F9756E49586F5D8066593AC8A7" size="1935538064" dateTime="2026-05-21T03:11:30" vendorVersion="1.0" dellVersion="A01" path="FOLDER14513152M/1/P7x4260-YNXV0_Win11_1.0_A01.exe" releaseID="YNXV0" delta="" type="win">
+    <Name>
+      <Display lang="en"><![CDATA[P7x4260-YNXV0_Win11_1.0_A01.exe]]></Display>
+    </Name>
+    <Description>
+      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
+1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
+2) Create a system-level optimized deployment sequence
+3) Setup an appropriate boot control sequence.
+4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
+    </Description>
+    <SupportedOperatingSystems>
+      <OperatingSystem osCode="Windows11" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+        <Display lang="en"><![CDATA[ Windows 11 x64 ]]></Display>
+        <SupportedLanguages>
+          <Language lang="en">English</Language>
+        </SupportedLanguages>
+      </OperatingSystem>
+    </SupportedOperatingSystems>
+    <SupportedSystems>
+      <Brand key="58" prefix="DPL">
+        <Display lang="en"><![CDATA[ Dell Pro Laptops ]]></Display>
+        <Model systemID="0E38" name="Dell Pro 7 14 P714260/Dell Pro 7 14 2-in-1 P704260" rtsDate="2026-04-29T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ Dell Pro 7 14 P714260/Dell Pro 7 14 2-in-1 P704260 ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="58" prefix="DPL">
+        <Display lang="en"><![CDATA[ Dell Pro Laptops ]]></Display>
+        <Model systemID="0E1D" name="Dell Pro 7 14 P714260/Dell Pro 7 14 2-in-1 P704260" rtsDate="2026-04-29T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ Dell Pro 7 14 P714260/Dell Pro 7 14 2-in-1 P704260 ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="58" prefix="DPL">
+        <Display lang="en"><![CDATA[ Dell Pro Laptops ]]></Display>
+        <Model systemID="0E85" name="Dell Pro 7 14 P714260/Dell Pro 7 14 2-in-1 P704260" rtsDate="2026-04-29T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ Dell Pro 7 14 P714260/Dell Pro 7 14 2-in-1 P704260 ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="58" prefix="DPL">
+        <Display lang="en"><![CDATA[ Dell Pro Laptops ]]></Display>
+        <Model systemID="0E84" name="Dell Pro 7 14 P714260/Dell Pro 7 14 2-in-1 P704260" rtsDate="2026-04-29T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ Dell Pro 7 14 P714260/Dell Pro 7 14 2-in-1 P704260 ]]></Display>
+        </Model>
+      </Brand>
+    </SupportedSystems>
+    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=YNXV0">
+      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
+    </ImportantInfo>
+    <Cryptography>
+      <Hash algorithm="MD5">033580F9756E49586F5D8066593AC8A7</Hash>
+      <Hash algorithm="SHA1">45306FE621DB5DA0622538A8793BC0260381C9EF</Hash>
+      <Hash algorithm="SHA256">3A81046899AFA1B5329617F4E5D389389617130D5BBBD13962CF90DF9B175D75</Hash>
+    </Cryptography>
+    <DriverPackMetadataInfo>
+      <Size>4470222</Size>
+      <path>FOLDER14513118M/1/P7x4260-YNXV0_Win11_1.0_A01.xml</path>
+      <Cryptography>
+        <Hash algorithm="MD5">6DFB8D70648135E76E0C4089B7AF2D92</Hash>
+        <Hash algorithm="SHA1">64AE3AA16A4636226D7DFBEA0D637CA54299F7F5</Hash>
+        <Hash algorithm="SHA256">25F6EC99F3B23DBDF1A6EB42CEB69101A52C1F0B8B778B0197E64293A3296816</Hash>
+      </Cryptography>
+    </DriverPackMetadataInfo>
+  </DriverPackage>
+  <DriverPackage format="exe" hashMD5="3101CFECA9BFDB95E15DD8E65E39FC4B" size="1963247272" dateTime="2026-05-21T03:11:30" vendorVersion="1.0" dellVersion="A01" path="FOLDER14514392M/1/P514260-TNP48_Win11_1.0_A01.exe" releaseID="TNP48" delta="" type="win">
+    <Name>
+      <Display lang="en"><![CDATA[P514260-TNP48_Win11_1.0_A01.exe]]></Display>
+    </Name>
+    <Description>
+      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
+1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
+2) Create a system-level optimized deployment sequence
+3) Setup an appropriate boot control sequence.
+4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
+    </Description>
+    <SupportedOperatingSystems>
+      <OperatingSystem osCode="Windows11" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+        <Display lang="en"><![CDATA[ Windows 11 x64 ]]></Display>
+        <SupportedLanguages>
+          <Language lang="en">English</Language>
+        </SupportedLanguages>
+      </OperatingSystem>
+    </SupportedOperatingSystems>
+    <SupportedSystems>
+      <Brand key="58" prefix="DPL">
+        <Display lang="en"><![CDATA[ Dell Pro Laptops ]]></Display>
+        <Model systemID="0E1C" name="Dell Pro 5 14 P514260" rtsDate="2026-04-29T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ Dell Pro 5 14 P514260 ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="58" prefix="DPL">
+        <Display lang="en"><![CDATA[ Dell Pro Laptops ]]></Display>
+        <Model systemID="0E33" name="Dell Pro 5 14 P514260" rtsDate="2026-04-29T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ Dell Pro 5 14 P514260 ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="58" prefix="DPL">
+        <Display lang="en"><![CDATA[ Dell Pro Laptops ]]></Display>
+        <Model systemID="0E35" name="Dell Pro 5 14 P514260" rtsDate="2026-04-29T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ Dell Pro 5 14 P514260 ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="58" prefix="DPL">
+        <Display lang="en"><![CDATA[ Dell Pro Laptops ]]></Display>
+        <Model systemID="0E3E" name="Dell Pro 5 14 P514260" rtsDate="2026-04-29T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ Dell Pro 5 14 P514260 ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="58" prefix="DPL">
+        <Display lang="en"><![CDATA[ Dell Pro Laptops ]]></Display>
+        <Model systemID="0E3C" name="Dell Pro 5 14 P514260" rtsDate="2026-04-29T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ Dell Pro 5 14 P514260 ]]></Display>
+        </Model>
+      </Brand>
+    </SupportedSystems>
+    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=TNP48">
+      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
+    </ImportantInfo>
+    <Cryptography>
+      <Hash algorithm="MD5">3101CFECA9BFDB95E15DD8E65E39FC4B</Hash>
+      <Hash algorithm="SHA1">3249FE19B9851E9F776929AFE92C701C6521277E</Hash>
+      <Hash algorithm="SHA256">AA617F7DC0EB6488785237CA9E7331C7B3F7FECF9FFC2DA29BFF495D19CC8FEA</Hash>
+    </Cryptography>
+    <DriverPackMetadataInfo>
+      <Size>5611053</Size>
+      <path>FOLDER14514376M/1/P514260-TNP48_Win11_1.0_A01.xml</path>
+      <Cryptography>
+        <Hash algorithm="MD5">AA9A5AE79C72F433B76FB7FE31FDDF38</Hash>
+        <Hash algorithm="SHA1">0BD8B0ED5A6FE876AB140BA284BD3BECF4518EB2</Hash>
+        <Hash algorithm="SHA256">B0C82FE0025886217D0A4F7B0D992DF209FF735F54B520FB4A34A217AE14C74F</Hash>
       </Cryptography>
     </DriverPackMetadataInfo>
   </DriverPackage>
