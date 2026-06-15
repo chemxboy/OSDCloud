@@ -1,4 +1,4 @@
-<DriverPackManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" baseLocation="downloads.dell.com" dateTime="2026-06-01T06:28:50" releaseID="810T2" version="2026.06.04" application="OnDemandCabBuilder" schemaVersion="2.3" xsi:noNamespaceSchemaLocation="https://downloads.dell.com/catalog/clientschema/4.0/DriverPackManifest.xsd" baseLocationAccessProtocols="HTTP FTP" deltaBase="http://en.community.dell.com" xmlns="openmanage/cm/dm">
+<DriverPackManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" baseLocation="downloads.dell.com" dateTime="2026-06-10T07:19:17" releaseID="HVTR6" version="2026.06.02" application="OnDemandCabBuilder" schemaVersion="2.3" xsi:noNamespaceSchemaLocation="https://downloads.dell.com/catalog/clientschema/4.0/DriverPackManifest.xsd" baseLocationAccessProtocols="HTTP FTP" deltaBase="http://en.community.dell.com" xmlns="openmanage/cm/dm">
   <DriverPackage format="cab" hashMD5="4B4B4330EBFF3E9F353D2C3D7B4450F6" size="72429980" dateTime="2014-07-11T00:00:00" vendorVersion="1.0" dellVersion="A01" path="FOLDER02291001M/1/160-vista-A01-JFH0G.CAB" releaseID="JFH0G" delta="/techcenter/enterprise-client/w/wiki/optiplex-160-vista-driver-cab" type="win">
     <Name>
       <Display lang="en"><![CDATA[160-vista-A01-JFH0G.CAB]]></Display>
@@ -45167,69 +45167,6 @@
       </Cryptography>
     </DriverPackMetadataInfo>
   </DriverPackage>
-  <DriverPackage format="exe" hashMD5="83249EDFAAE257829F40ED5EB0C9F15E" size="3003069736" dateTime="2025-11-21T04:56:03" vendorVersion="1.0" dellVersion="A12" path="FOLDER13779302M/1/OptiPlex-7010-Tower-0V9CF_Win10_1.0_A12.exe" releaseID="0V9CF" delta="" type="win">
-    <Name>
-      <Display lang="en"><![CDATA[OptiPlex-7010-Tower-0V9CF_Win10_1.0_A12.exe]]></Display>
-    </Name>
-    <Description>
-      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
-1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
-2) Create a system-level optimized deployment sequence
-3) Setup an appropriate boot control sequence.
-4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
-    </Description>
-    <SupportedOperatingSystems>
-      <OperatingSystem osCode="Windows10" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
-        <Display lang="en"><![CDATA[ Windows 10 x64 ]]></Display>
-        <SupportedLanguages>
-          <Language lang="en">English</Language>
-        </SupportedLanguages>
-      </OperatingSystem>
-    </SupportedOperatingSystems>
-    <SupportedSystems>
-      <Brand key="1" prefix="OP">
-        <Display lang="en"><![CDATA[ Optiplex ]]></Display>
-        <Model systemID="0BCC" name="OptiPlex 7010 Tower" rtsDate="2023-02-15T06:00:00" generation="">
-          <Display lang="en"><![CDATA[ OptiPlex 7010 Tower ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="1" prefix="OP">
-        <Display lang="en"><![CDATA[ Optiplex ]]></Display>
-        <Model systemID="0BCD" name="OptiPlex 7010 Tower" rtsDate="2023-02-15T06:00:00" generation="">
-          <Display lang="en"><![CDATA[ OptiPlex 7010 Tower ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="1" prefix="OP">
-        <Display lang="en"><![CDATA[ Optiplex ]]></Display>
-        <Model systemID="0BCE" name="OptiPlex 7010 Tower" rtsDate="2023-02-15T06:00:00" generation="">
-          <Display lang="en"><![CDATA[ OptiPlex 7010 Tower ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="1" prefix="OP">
-        <Display lang="en"><![CDATA[ Optiplex ]]></Display>
-        <Model systemID="0BCF" name="OptiPlex 7010 Tower" rtsDate="2023-02-15T06:00:00" generation="">
-          <Display lang="en"><![CDATA[ OptiPlex 7010 Tower ]]></Display>
-        </Model>
-      </Brand>
-    </SupportedSystems>
-    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=0V9CF">
-      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
-    </ImportantInfo>
-    <Cryptography>
-      <Hash algorithm="MD5">83249EDFAAE257829F40ED5EB0C9F15E</Hash>
-      <Hash algorithm="SHA1">CE28A24D7E0435245487E753042874D7BBE39EC4</Hash>
-      <Hash algorithm="SHA256">FB4D245FECEFB9E6C84215106C59CADC9CD1CA9F30BAC9E836ECF38CD5AC37BA</Hash>
-    </Cryptography>
-    <DriverPackMetadataInfo>
-      <Size>1631190</Size>
-      <path>FOLDER13779283M/1/OptiPlex-7010-Tower-0V9CF_Win10_1.0_A12.xml</path>
-      <Cryptography>
-        <Hash algorithm="MD5">8D35FCA0A0F08298218F788CD4ADBEFE</Hash>
-        <Hash algorithm="SHA1">639094A116BD64EFDB66169E9E84D32AA4E9627A</Hash>
-        <Hash algorithm="SHA256">C7F1F3C8ABD7E80D76CF87EF66D78A8C7BB4A48D3E829C39D802F003B7F160A0</Hash>
-      </Cryptography>
-    </DriverPackMetadataInfo>
-  </DriverPackage>
   <DriverPackage format="exe" hashMD5="3647CF40D33088DE9522F7EFCA8C4C3E" size="1306452048" dateTime="2025-11-21T04:56:03" vendorVersion="1.0" dellVersion="A12" path="FOLDER13725473M/1/Latitude-7340-PVTT7_Win10_1.0_A12.exe" releaseID="PVTT7" delta="" type="win">
     <Name>
       <Display lang="en"><![CDATA[Latitude-7340-PVTT7_Win10_1.0_A12.exe]]></Display>
@@ -45332,51 +45269,6 @@
       </Cryptography>
     </DriverPackMetadataInfo>
   </DriverPackage>
-  <DriverPackage format="exe" hashMD5="CA652A7456766616F4B0C5FC1B2B96E3" size="2540311376" dateTime="2025-11-21T04:56:03" vendorVersion="1.0" dellVersion="A12" path="FOLDER13744647M/1/XPS-15-9530-VV12J_Win11_1.0_A12.exe" releaseID="VV12J" delta="" type="win">
-    <Name>
-      <Display lang="en"><![CDATA[XPS-15-9530-VV12J_Win11_1.0_A12.exe]]></Display>
-    </Name>
-    <Description>
-      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
-1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
-2) Create a system-level optimized deployment sequence
-3) Setup an appropriate boot control sequence.
-4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
-    </Description>
-    <SupportedOperatingSystems>
-      <OperatingSystem osCode="Windows11" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
-        <Display lang="en"><![CDATA[ Windows 11 x64 ]]></Display>
-        <SupportedLanguages>
-          <Language lang="en">English</Language>
-        </SupportedLanguages>
-      </OperatingSystem>
-    </SupportedOperatingSystems>
-    <SupportedSystems>
-      <Brand key="72" prefix="XPSNOTEBOOK">
-        <Display lang="en"><![CDATA[ XPS Notebook ]]></Display>
-        <Model systemID="0BEB" name="XPS 15 9530" rtsDate="2023-02-28T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ XPS 15 9530 ]]></Display>
-        </Model>
-      </Brand>
-    </SupportedSystems>
-    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=VV12J">
-      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
-    </ImportantInfo>
-    <Cryptography>
-      <Hash algorithm="MD5">CA652A7456766616F4B0C5FC1B2B96E3</Hash>
-      <Hash algorithm="SHA1">64CED96BBABA76F58DCFDFC21859D1A28FFDE679</Hash>
-      <Hash algorithm="SHA256">BB75781D4DE71164BD98F1615CBAE03CAFFB0E503A257153622F3499C9482FC3</Hash>
-    </Cryptography>
-    <DriverPackMetadataInfo>
-      <Size>497965</Size>
-      <path>FOLDER13744577M/1/XPS-15-9530-VV12J_Win11_1.0_A12.xml</path>
-      <Cryptography>
-        <Hash algorithm="MD5">58E57342033F3C34D71D91EC209EC744</Hash>
-        <Hash algorithm="SHA1">FFE0FA858267139113B268A86FF3A145AED01B94</Hash>
-        <Hash algorithm="SHA256">A024B0DA35B8F61759511DC8855D4D560EE373465931416AEF7E1545D31C0935</Hash>
-      </Cryptography>
-    </DriverPackMetadataInfo>
-  </DriverPackage>
   <DriverPackage format="exe" hashMD5="23FE60577215F73540E983357D012B1F" size="2213284472" dateTime="2025-11-21T04:56:03" vendorVersion="1.0" dellVersion="A12" path="FOLDER13729836M/1/Precision-3580-9K5Y5_Win10_1.0_A12.exe" releaseID="9K5Y5" delta="" type="win">
     <Name>
       <Display lang="en"><![CDATA[Precision-3580-9K5Y5_Win10_1.0_A12.exe]]></Display>
@@ -45419,96 +45311,6 @@
         <Hash algorithm="MD5">B150243E8C801BC4A7D4D722974E0691</Hash>
         <Hash algorithm="SHA1">539183F65427DB74BDA863BF46BB9E8570465082</Hash>
         <Hash algorithm="SHA256">C319A55017C9FE55EF03351629598746F767A1D8439F6D56915894E2F683BE9D</Hash>
-      </Cryptography>
-    </DriverPackMetadataInfo>
-  </DriverPackage>
-  <DriverPackage format="exe" hashMD5="F39A0F99CF32C797FD31EDB349600A54" size="2114382584" dateTime="2025-11-21T04:55:31" vendorVersion="1.0" dellVersion="A09" path="FOLDER13836061M/1/Latitude-7650-WMRN2_Win10_1.0_A09.exe" releaseID="WMRN2" delta="" type="win">
-    <Name>
-      <Display lang="en"><![CDATA[Latitude-7650-WMRN2_Win10_1.0_A09.exe]]></Display>
-    </Name>
-    <Description>
-      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
-1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
-2) Create a system-level optimized deployment sequence
-3) Setup an appropriate boot control sequence.
-4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
-    </Description>
-    <SupportedOperatingSystems>
-      <OperatingSystem osCode="Windows10" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
-        <Display lang="en"><![CDATA[ Windows 10 x64 ]]></Display>
-        <SupportedLanguages>
-          <Language lang="en">English</Language>
-        </SupportedLanguages>
-      </OperatingSystem>
-    </SupportedOperatingSystems>
-    <SupportedSystems>
-      <Brand key="4" prefix="LAT">
-        <Display lang="en"><![CDATA[ Latitude ]]></Display>
-        <Model systemID="0CC4" name="Latitude 7650" rtsDate="2024-03-24T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ Latitude 7650 ]]></Display>
-        </Model>
-      </Brand>
-    </SupportedSystems>
-    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=WMRN2">
-      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
-    </ImportantInfo>
-    <Cryptography>
-      <Hash algorithm="MD5">F39A0F99CF32C797FD31EDB349600A54</Hash>
-      <Hash algorithm="SHA1">EF229684FDD1266653AA4B3A0B017A6A1B5E8FDD</Hash>
-      <Hash algorithm="SHA256">6456DAE28795853E1BED17686D9CE38B33F64C151AFCC07DE69348DF771DF052</Hash>
-    </Cryptography>
-    <DriverPackMetadataInfo>
-      <Size>478865</Size>
-      <path>FOLDER13836025M/1/Latitude-7650-WMRN2_Win10_1.0_A09.xml</path>
-      <Cryptography>
-        <Hash algorithm="MD5">B7FF0BBDA7CD7A76F392F6EA5EFA4FC5</Hash>
-        <Hash algorithm="SHA1">CCAF5BBBF9C6EFD06286E5510DB68AA2C0DEDDC3</Hash>
-        <Hash algorithm="SHA256">F2C3C332E27BCEAD12B4A002C8C07C1A6D979712284B7C9709A40B2A7E3FB07D</Hash>
-      </Cryptography>
-    </DriverPackMetadataInfo>
-  </DriverPackage>
-  <DriverPackage format="exe" hashMD5="6C66D27BECE4031E6803F0913A73864F" size="1948090064" dateTime="2025-11-21T04:55:31" vendorVersion="1.0" dellVersion="A09" path="FOLDER13836060M/1/Latitude-7650-VJTN8_Win11_1.0_A09.exe" releaseID="VJTN8" delta="" type="win">
-    <Name>
-      <Display lang="en"><![CDATA[Latitude-7650-VJTN8_Win11_1.0_A09.exe]]></Display>
-    </Name>
-    <Description>
-      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
-1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
-2) Create a system-level optimized deployment sequence
-3) Setup an appropriate boot control sequence.
-4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
-    </Description>
-    <SupportedOperatingSystems>
-      <OperatingSystem osCode="Windows11" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
-        <Display lang="en"><![CDATA[ Windows 11 x64 ]]></Display>
-        <SupportedLanguages>
-          <Language lang="en">English</Language>
-        </SupportedLanguages>
-      </OperatingSystem>
-    </SupportedOperatingSystems>
-    <SupportedSystems>
-      <Brand key="4" prefix="LAT">
-        <Display lang="en"><![CDATA[ Latitude ]]></Display>
-        <Model systemID="0CC4" name="Latitude 7650" rtsDate="2024-03-24T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ Latitude 7650 ]]></Display>
-        </Model>
-      </Brand>
-    </SupportedSystems>
-    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=VJTN8">
-      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
-    </ImportantInfo>
-    <Cryptography>
-      <Hash algorithm="MD5">6C66D27BECE4031E6803F0913A73864F</Hash>
-      <Hash algorithm="SHA1">C4BA45EEA875F535D44EE5AB097667EAB38C9AAC</Hash>
-      <Hash algorithm="SHA256">702A4C96D0B0027CC655280F3A774AEF90E4D1574F1D4526631E50B2C2F78ECC</Hash>
-    </Cryptography>
-    <DriverPackMetadataInfo>
-      <Size>474790</Size>
-      <path>FOLDER13836024M/1/Latitude-7650-VJTN8_Win11_1.0_A09.xml</path>
-      <Cryptography>
-        <Hash algorithm="MD5">2491F9BBE35DD76C4A462B22C270105F</Hash>
-        <Hash algorithm="SHA1">2CCD6C0B6A541A8C99B1ECB1E8BE1BCDE1AF87A9</Hash>
-        <Hash algorithm="SHA256">FE14FB6C53501A737C6B934C488201300549FCE0D1CC71373A75DB4BD9F4F880</Hash>
       </Cryptography>
     </DriverPackMetadataInfo>
   </DriverPackage>
@@ -45611,69 +45413,6 @@
         <Hash algorithm="MD5">10F000BB86DCDEC76C72E692AC42352D</Hash>
         <Hash algorithm="SHA1">276767D0A479536396A05EE9042ABEF9B3DCBC2D</Hash>
         <Hash algorithm="SHA256">03A9F17FEF4E57B050A0C39BF5643847DBA4719C931425DE82C5AA2B3D3A2768</Hash>
-      </Cryptography>
-    </DriverPackMetadataInfo>
-  </DriverPackage>
-  <DriverPackage format="exe" hashMD5="2CCDEB1A050B3E39EA41D91901B97940" size="3003065736" dateTime="2025-11-21T04:56:03" vendorVersion="1.0" dellVersion="A12" path="FOLDER13779303M/1/OptiPlex-7010-Tower-T8XRF_Win11_1.0_A12.exe" releaseID="T8XRF" delta="" type="win">
-    <Name>
-      <Display lang="en"><![CDATA[OptiPlex-7010-Tower-T8XRF_Win11_1.0_A12.exe]]></Display>
-    </Name>
-    <Description>
-      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
-1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
-2) Create a system-level optimized deployment sequence
-3) Setup an appropriate boot control sequence.
-4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
-    </Description>
-    <SupportedOperatingSystems>
-      <OperatingSystem osCode="Windows11" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
-        <Display lang="en"><![CDATA[ Windows 11 x64 ]]></Display>
-        <SupportedLanguages>
-          <Language lang="en">English</Language>
-        </SupportedLanguages>
-      </OperatingSystem>
-    </SupportedOperatingSystems>
-    <SupportedSystems>
-      <Brand key="1" prefix="OP">
-        <Display lang="en"><![CDATA[ Optiplex ]]></Display>
-        <Model systemID="0BCC" name="OptiPlex 7010 Tower" rtsDate="2023-02-15T06:00:00" generation="">
-          <Display lang="en"><![CDATA[ OptiPlex 7010 Tower ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="1" prefix="OP">
-        <Display lang="en"><![CDATA[ Optiplex ]]></Display>
-        <Model systemID="0BCD" name="OptiPlex 7010 Tower" rtsDate="2023-02-15T06:00:00" generation="">
-          <Display lang="en"><![CDATA[ OptiPlex 7010 Tower ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="1" prefix="OP">
-        <Display lang="en"><![CDATA[ Optiplex ]]></Display>
-        <Model systemID="0BCE" name="OptiPlex 7010 Tower" rtsDate="2023-02-15T06:00:00" generation="">
-          <Display lang="en"><![CDATA[ OptiPlex 7010 Tower ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="1" prefix="OP">
-        <Display lang="en"><![CDATA[ Optiplex ]]></Display>
-        <Model systemID="0BCF" name="OptiPlex 7010 Tower" rtsDate="2023-02-15T06:00:00" generation="">
-          <Display lang="en"><![CDATA[ OptiPlex 7010 Tower ]]></Display>
-        </Model>
-      </Brand>
-    </SupportedSystems>
-    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=T8XRF">
-      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
-    </ImportantInfo>
-    <Cryptography>
-      <Hash algorithm="MD5">2CCDEB1A050B3E39EA41D91901B97940</Hash>
-      <Hash algorithm="SHA1">62D706801CFBF9F9CACEB965569CC42C372D2AF2</Hash>
-      <Hash algorithm="SHA256">EEEF36A5DB972A6E4D35A95A4E21716F94A1471E9DC419079EF82D996EAE2ABA</Hash>
-    </Cryptography>
-    <DriverPackMetadataInfo>
-      <Size>1631190</Size>
-      <path>FOLDER13779284M/1/OptiPlex-7010-Tower-T8XRF_Win11_1.0_A12.xml</path>
-      <Cryptography>
-        <Hash algorithm="MD5">1F99942E45210F6BDC86E5EEBAE530A3</Hash>
-        <Hash algorithm="SHA1">C3D6B1DF4F41370E33A63EACAB7B3FDD9244552D</Hash>
-        <Hash algorithm="SHA256">37D27010254E2B5F473F10273D0FC3CC19DBCDAC09A8DDE88F8B93B9361E35F1</Hash>
       </Cryptography>
     </DriverPackMetadataInfo>
   </DriverPackage>
@@ -45996,132 +45735,6 @@
       </Cryptography>
     </DriverPackMetadataInfo>
   </DriverPackage>
-  <DriverPackage format="exe" hashMD5="DEE2A8CA87017AA0AC2AD8E6A79EE782" size="2154818288" dateTime="2026-02-05T03:36:06" vendorVersion="1.0" dellVersion="A09" path="FOLDER14169503M/1/Latitude-7450-FXNRP_Win10_1.0_A09.exe" releaseID="FXNRP" delta="" type="win">
-    <Name>
-      <Display lang="en"><![CDATA[Latitude-7450-FXNRP_Win10_1.0_A09.exe]]></Display>
-    </Name>
-    <Description>
-      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
-1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
-2) Create a system-level optimized deployment sequence
-3) Setup an appropriate boot control sequence.
-4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
-    </Description>
-    <SupportedOperatingSystems>
-      <OperatingSystem osCode="Windows10" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
-        <Display lang="en"><![CDATA[ Windows 10 x64 ]]></Display>
-        <SupportedLanguages>
-          <Language lang="en">English</Language>
-        </SupportedLanguages>
-      </OperatingSystem>
-    </SupportedOperatingSystems>
-    <SupportedSystems>
-      <Brand key="4" prefix="LAT">
-        <Display lang="en"><![CDATA[ Latitude ]]></Display>
-        <Model systemID="0CC1" name="Latitude 7450" rtsDate="2024-03-04T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ Latitude 7450 ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="4" prefix="LAT">
-        <Display lang="en"><![CDATA[ Latitude ]]></Display>
-        <Model systemID="0CC2" name="Latitude 7450" rtsDate="2024-03-04T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ Latitude 7450 ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="4" prefix="LAT">
-        <Display lang="en"><![CDATA[ Latitude ]]></Display>
-        <Model systemID="0CC3" name="Latitude 7450" rtsDate="2024-03-04T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ Latitude 7450 ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="4" prefix="LAT">
-        <Display lang="en"><![CDATA[ Latitude ]]></Display>
-        <Model systemID="0CC5" name="Latitude 7450" rtsDate="2024-03-04T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ Latitude 7450 ]]></Display>
-        </Model>
-      </Brand>
-    </SupportedSystems>
-    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=FXNRP">
-      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
-    </ImportantInfo>
-    <Cryptography>
-      <Hash algorithm="MD5">DEE2A8CA87017AA0AC2AD8E6A79EE782</Hash>
-      <Hash algorithm="SHA1">F607BDDC650FB3302F2F26D35FF874BD2CCFC920</Hash>
-      <Hash algorithm="SHA256">069E4D2F7F039EAE7C256DBA0BDAD060E13D5012F651E7721DE907C830527BD5</Hash>
-    </Cryptography>
-    <DriverPackMetadataInfo>
-      <Size>2017342</Size>
-      <path>FOLDER14169489M/1/Latitude-7450-FXNRP_Win10_1.0_A09.xml</path>
-      <Cryptography>
-        <Hash algorithm="MD5">D5F5E9A1BEF02861DB553A5C7CB77588</Hash>
-        <Hash algorithm="SHA1">95857334016D1B83AF342DCB8FDE6623B38503FE</Hash>
-        <Hash algorithm="SHA256">79828F3A055B1A6A473D28D2444F751363701D4F901C866ED6C48A87BCA46EA5</Hash>
-      </Cryptography>
-    </DriverPackMetadataInfo>
-  </DriverPackage>
-  <DriverPackage format="exe" hashMD5="E465E3B28D99388C01045833DA9B4F0A" size="1990181712" dateTime="2026-02-05T03:36:06" vendorVersion="1.0" dellVersion="A09" path="FOLDER14046563M/1/Latitude-7450-JHC1J_Win11_1.0_A09.exe" releaseID="JHC1J" delta="" type="win">
-    <Name>
-      <Display lang="en"><![CDATA[Latitude-7450-JHC1J_Win11_1.0_A09.exe]]></Display>
-    </Name>
-    <Description>
-      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
-1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
-2) Create a system-level optimized deployment sequence
-3) Setup an appropriate boot control sequence.
-4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
-    </Description>
-    <SupportedOperatingSystems>
-      <OperatingSystem osCode="Windows11" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
-        <Display lang="en"><![CDATA[ Windows 11 x64 ]]></Display>
-        <SupportedLanguages>
-          <Language lang="en">English</Language>
-        </SupportedLanguages>
-      </OperatingSystem>
-    </SupportedOperatingSystems>
-    <SupportedSystems>
-      <Brand key="4" prefix="LAT">
-        <Display lang="en"><![CDATA[ Latitude ]]></Display>
-        <Model systemID="0CC1" name="Latitude 7450" rtsDate="2024-03-04T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ Latitude 7450 ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="4" prefix="LAT">
-        <Display lang="en"><![CDATA[ Latitude ]]></Display>
-        <Model systemID="0CC2" name="Latitude 7450" rtsDate="2024-03-04T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ Latitude 7450 ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="4" prefix="LAT">
-        <Display lang="en"><![CDATA[ Latitude ]]></Display>
-        <Model systemID="0CC3" name="Latitude 7450" rtsDate="2024-03-04T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ Latitude 7450 ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="4" prefix="LAT">
-        <Display lang="en"><![CDATA[ Latitude ]]></Display>
-        <Model systemID="0CC5" name="Latitude 7450" rtsDate="2024-03-04T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ Latitude 7450 ]]></Display>
-        </Model>
-      </Brand>
-    </SupportedSystems>
-    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=JHC1J">
-      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
-    </ImportantInfo>
-    <Cryptography>
-      <Hash algorithm="MD5">E465E3B28D99388C01045833DA9B4F0A</Hash>
-      <Hash algorithm="SHA1">C57466848D9011D73461E931C51068974677AB43</Hash>
-      <Hash algorithm="SHA256">72C5689DA8150FD0C5A031A0BA42A6D99D79A687859AE7DE97B47F22F2A556CC</Hash>
-    </Cryptography>
-    <DriverPackMetadataInfo>
-      <Size>2006994</Size>
-      <path>FOLDER14046538M/1/Latitude-7450-JHC1J_Win11_1.0_A09.xml</path>
-      <Cryptography>
-        <Hash algorithm="MD5">ECACA176FC3EADA4D8B2EFC14016E0CB</Hash>
-        <Hash algorithm="SHA1">1E722839DB22C52B75D79697D41D9D4208532394</Hash>
-        <Hash algorithm="SHA256">96779971F216B4885FBAE38F5840AC8909FB76BDFFA87E771171F97413EB94A8</Hash>
-      </Cryptography>
-    </DriverPackMetadataInfo>
-  </DriverPackage>
   <DriverPackage format="exe" hashMD5="71AF500689B7773128F8AB0D101FDE24" size="1537156848" dateTime="2026-02-05T03:36:06" vendorVersion="1.0" dellVersion="A11" path="FOLDER14061233M/1/Latitude-5350-0JRXW_Win10_1.0_A11.exe" releaseID="0JRXW" delta="" type="win">
     <Name>
       <Display lang="en"><![CDATA[Latitude-5350-0JRXW_Win10_1.0_A11.exe]]></Display>
@@ -46182,69 +45795,6 @@
         <Hash algorithm="MD5">D5A798324ADFEF0677C07CF3C1634B94</Hash>
         <Hash algorithm="SHA1">F7F321B006BD4332A877F46E3486EA8CFC4837BA</Hash>
         <Hash algorithm="SHA256">75F216E35CE68A2ACA855636BDD37E5D3B01D16B43B25E570949A29C2490F28F</Hash>
-      </Cryptography>
-    </DriverPackMetadataInfo>
-  </DriverPackage>
-  <DriverPackage format="exe" hashMD5="F0BAD718A876F81F8214DA49626CE4DF" size="1365446632" dateTime="2026-02-05T03:36:06" vendorVersion="1.0" dellVersion="A11" path="FOLDER14061230M/1/Latitude-5350-1CM7G_Win11_1.0_A11.exe" releaseID="1CM7G" delta="" type="win">
-    <Name>
-      <Display lang="en"><![CDATA[Latitude-5350-1CM7G_Win11_1.0_A11.exe]]></Display>
-    </Name>
-    <Description>
-      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
-1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
-2) Create a system-level optimized deployment sequence
-3) Setup an appropriate boot control sequence.
-4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
-    </Description>
-    <SupportedOperatingSystems>
-      <OperatingSystem osCode="Windows11" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
-        <Display lang="en"><![CDATA[ Windows 11 x64 ]]></Display>
-        <SupportedLanguages>
-          <Language lang="en">English</Language>
-        </SupportedLanguages>
-      </OperatingSystem>
-    </SupportedOperatingSystems>
-    <SupportedSystems>
-      <Brand key="4" prefix="LAT">
-        <Display lang="en"><![CDATA[ Latitude ]]></Display>
-        <Model systemID="0CB5" name="Latitude 5350" rtsDate="2024-03-04T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ Latitude 5350 ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="4" prefix="LAT">
-        <Display lang="en"><![CDATA[ Latitude ]]></Display>
-        <Model systemID="0CB7" name="Latitude 5350" rtsDate="2024-03-04T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ Latitude 5350 ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="4" prefix="LAT">
-        <Display lang="en"><![CDATA[ Latitude ]]></Display>
-        <Model systemID="0CB6" name="Latitude 5350" rtsDate="2024-03-04T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ Latitude 5350 ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="4" prefix="LAT">
-        <Display lang="en"><![CDATA[ Latitude ]]></Display>
-        <Model systemID="0CB8" name="Latitude 5350" rtsDate="2024-03-04T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ Latitude 5350 ]]></Display>
-        </Model>
-      </Brand>
-    </SupportedSystems>
-    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=1CM7G">
-      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
-    </ImportantInfo>
-    <Cryptography>
-      <Hash algorithm="MD5">F0BAD718A876F81F8214DA49626CE4DF</Hash>
-      <Hash algorithm="SHA1">AF51D04A99EB975AF260FC54767978D25885C8E3</Hash>
-      <Hash algorithm="SHA256">0E1489764D91C908ADC2A79AE3721E62A82BE04441BE9623968F5A61D9FC8812</Hash>
-    </Cryptography>
-    <DriverPackMetadataInfo>
-      <Size>1476910</Size>
-      <path>FOLDER14061211M/1/Latitude-5350-1CM7G_Win11_1.0_A11.xml</path>
-      <Cryptography>
-        <Hash algorithm="MD5">22208CAC0607A2DCB53D21175F90B1E7</Hash>
-        <Hash algorithm="SHA1">B33718E8B9BA8F54637F183FB7340D17C1ABD257</Hash>
-        <Hash algorithm="SHA256">C9981922F54C48BDBF8263FED319B3FF043E2CD4F7D628367E3659412E32C90E</Hash>
       </Cryptography>
     </DriverPackMetadataInfo>
   </DriverPackage>
@@ -47682,63 +47232,6 @@
       </Cryptography>
     </DriverPackMetadataInfo>
   </DriverPackage>
-  <DriverPackage format="exe" hashMD5="7469CF0AE68D3FE4D99073C55866C89F" size="1658004488" dateTime="2026-03-24T01:20:25" vendorVersion="1.0" dellVersion="A05" path="FOLDER14317975M/1/MC16255-FN8K3_Win11_1.0_A05.exe" releaseID="FN8K3" delta="" type="win">
-    <Name>
-      <Display lang="en"><![CDATA[MC16255-FN8K3_Win11_1.0_A05.exe]]></Display>
-    </Name>
-    <Description>
-      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
-1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
-2) Create a system-level optimized deployment sequence
-3) Setup an appropriate boot control sequence.
-4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
-    </Description>
-    <SupportedOperatingSystems>
-      <OperatingSystem osCode="Windows11" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
-        <Display lang="en"><![CDATA[ Windows 11 x64 ]]></Display>
-        <SupportedLanguages>
-          <Language lang="en">English</Language>
-        </SupportedLanguages>
-      </OperatingSystem>
-    </SupportedOperatingSystems>
-    <SupportedSystems>
-      <Brand key="60" prefix="DPML">
-        <Display lang="en"><![CDATA[ Dell Pro Max Laptops ]]></Display>
-        <Model systemID="0D82" name="Dell Pro Max 16 MC16255" rtsDate="2025-07-16T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ Dell Pro Max 16 MC16255 ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="60" prefix="DPML">
-        <Display lang="en"><![CDATA[ Dell Pro Max Laptops ]]></Display>
-        <Model systemID="0D83" name="Dell Pro Max 16 MC16255" rtsDate="2025-07-16T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ Dell Pro Max 16 MC16255 ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="60" prefix="DPML">
-        <Display lang="en"><![CDATA[ Dell Pro Max Laptops ]]></Display>
-        <Model systemID="0DD4" name="Dell Pro Max 16 MC16255" rtsDate="2025-07-16T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ Dell Pro Max 16 MC16255 ]]></Display>
-        </Model>
-      </Brand>
-    </SupportedSystems>
-    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=FN8K3">
-      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
-    </ImportantInfo>
-    <Cryptography>
-      <Hash algorithm="MD5">7469CF0AE68D3FE4D99073C55866C89F</Hash>
-      <Hash algorithm="SHA1">62AAC1D0C8A6759653A3A36986CFF44BD0755130</Hash>
-      <Hash algorithm="SHA256">39723DC558F82422A0DFD1824B6FCAEDCCCAB675239EC8D9537E5F54D4AFB683</Hash>
-    </Cryptography>
-    <DriverPackMetadataInfo>
-      <Size>924205</Size>
-      <path>FOLDER14317957M/1/MC16255-FN8K3_Win11_1.0_A05.xml</path>
-      <Cryptography>
-        <Hash algorithm="MD5">6C78E77F8255FD67577B4E7F3F2F1D60</Hash>
-        <Hash algorithm="SHA1">DBEF250238B7B5EF646D0780B78BA690FCEB7061</Hash>
-        <Hash algorithm="SHA256">736D4C597FD662DAD773196462B4D17672CF0B2E17AFC78976EB5B4512E6A30B</Hash>
-      </Cryptography>
-    </DriverPackMetadataInfo>
-  </DriverPackage>
   <DriverPackage format="exe" hashMD5="C9B72EDC00C866ACBA30F70C97983BF9" size="2937364776" dateTime="2026-03-24T01:16:25" vendorVersion="1.0" dellVersion="A05" path="FOLDER14283652M/1/FCS1250-9FYMC_Win11_1.0_A05.exe" releaseID="9FYMC" delta="" type="win">
     <Name>
       <Display lang="en"><![CDATA[FCS1250-9FYMC_Win11_1.0_A05.exe]]></Display>
@@ -47787,81 +47280,6 @@
         <Hash algorithm="MD5">A7B508ADFB08FEABD3CBF6E64A0A4363</Hash>
         <Hash algorithm="SHA1">FCBC5F9327F32B36C06EA88D685392A60AFF8208</Hash>
         <Hash algorithm="SHA256">B6694F8C761E6DEDE778E09FBA96D72D989D21CCB3FCAC27FC349DABCD4129C4</Hash>
-      </Cryptography>
-    </DriverPackMetadataInfo>
-  </DriverPackage>
-  <DriverPackage format="exe" hashMD5="87BEF71E544E15F3BB939A7B776A7D81" size="1598723896" dateTime="2026-03-24T01:16:25" vendorVersion="1.0" dellVersion="A05" path="FOLDER14266602M/1/QxM1250-KT8XG_Win10_1.0_A05.exe" releaseID="KT8XG" delta="" type="win">
-    <Name>
-      <Display lang="en"><![CDATA[QxM1250-KT8XG_Win10_1.0_A05.exe]]></Display>
-    </Name>
-    <Description>
-      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
-1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
-2) Create a system-level optimized deployment sequence
-3) Setup an appropriate boot control sequence.
-4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
-    </Description>
-    <SupportedOperatingSystems>
-      <OperatingSystem osCode="Windows10" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
-        <Display lang="en"><![CDATA[ Windows 10 x64 ]]></Display>
-        <SupportedLanguages>
-          <Language lang="en">English</Language>
-        </SupportedLanguages>
-      </OperatingSystem>
-    </SupportedOperatingSystems>
-    <SupportedSystems>
-      <Brand key="57" prefix="DPD">
-        <Display lang="en"><![CDATA[ Dell Pro Desktops ]]></Display>
-        <Model systemID="0D03" name="QxM1250" rtsDate="2025-03-19T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ QxM1250 ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="57" prefix="DPD">
-        <Display lang="en"><![CDATA[ Dell Pro Desktops ]]></Display>
-        <Model systemID="0D04" name="QxM1250" rtsDate="2025-03-19T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ QxM1250 ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="57" prefix="DPD">
-        <Display lang="en"><![CDATA[ Dell Pro Desktops ]]></Display>
-        <Model systemID="0D05" name="QxM1250" rtsDate="2025-03-19T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ QxM1250 ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="57" prefix="DPD">
-        <Display lang="en"><![CDATA[ Dell Pro Desktops ]]></Display>
-        <Model systemID="0D06" name="QxM1250" rtsDate="2025-03-19T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ QxM1250 ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="57" prefix="DPD">
-        <Display lang="en"><![CDATA[ Dell Pro Desktops ]]></Display>
-        <Model systemID="0D1A" name="QxM1250" rtsDate="2025-03-19T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ QxM1250 ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="57" prefix="DPD">
-        <Display lang="en"><![CDATA[ Dell Pro Desktops ]]></Display>
-        <Model systemID="0D1B" name="QxM1250" rtsDate="2025-03-19T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ QxM1250 ]]></Display>
-        </Model>
-      </Brand>
-    </SupportedSystems>
-    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=KT8XG">
-      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
-    </ImportantInfo>
-    <Cryptography>
-      <Hash algorithm="MD5">87BEF71E544E15F3BB939A7B776A7D81</Hash>
-      <Hash algorithm="SHA1">ED48758D0071C9AAFE6BF9D7A97EAB81804891CE</Hash>
-      <Hash algorithm="SHA256">FF0E811B2B299742EEEEA8CDC02300CDB93B670772046B6CA3497C49970896EC</Hash>
-    </Cryptography>
-    <DriverPackMetadataInfo>
-      <Size>3737056</Size>
-      <path>FOLDER14266584M/1/QxM1250-KT8XG_Win10_1.0_A05.xml</path>
-      <Cryptography>
-        <Hash algorithm="MD5">97D250C6E5A75032B198FBCCD4A86948</Hash>
-        <Hash algorithm="SHA1">E1BB27FF808245C92DFF63F3D185632E80A680FC</Hash>
-        <Hash algorithm="SHA256">D21C4F61361EEB0DF96FEB3CDBC29BFF0E5597A7121BE87C953158BEDC79A782</Hash>
       </Cryptography>
     </DriverPackMetadataInfo>
   </DriverPackage>
@@ -48603,96 +48021,6 @@
         <Hash algorithm="MD5">153F37D4B9CC9ECF9D9BD64C62C24933</Hash>
         <Hash algorithm="SHA1">C38EBCDE2185530F2C6B1DF14C1B13225D915E5E</Hash>
         <Hash algorithm="SHA256">7C9FB9BA93465051054149935E3D5C06E9BF36572DBCCE93D113BE8C3BE94856</Hash>
-      </Cryptography>
-    </DriverPackMetadataInfo>
-  </DriverPackage>
-  <DriverPackage format="exe" hashMD5="8BCC649CB44470974A9819FF1295C658" size="2611034904" dateTime="2026-04-10T02:09:16" vendorVersion="1.0" dellVersion="A04" path="FOLDER14328311M/1/MB16250-5G9DW_Win10_1.0_A04.exe" releaseID="5G9DW" delta="" type="win">
-    <Name>
-      <Display lang="en"><![CDATA[MB16250-5G9DW_Win10_1.0_A04.exe]]></Display>
-    </Name>
-    <Description>
-      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
-1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
-2) Create a system-level optimized deployment sequence
-3) Setup an appropriate boot control sequence.
-4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
-    </Description>
-    <SupportedOperatingSystems>
-      <OperatingSystem osCode="Windows10" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
-        <Display lang="en"><![CDATA[ Windows 10 x64 ]]></Display>
-        <SupportedLanguages>
-          <Language lang="en">English</Language>
-        </SupportedLanguages>
-      </OperatingSystem>
-    </SupportedOperatingSystems>
-    <SupportedSystems>
-      <Brand key="60" prefix="DPML">
-        <Display lang="en"><![CDATA[ Dell Pro Max Laptops ]]></Display>
-        <Model systemID="0D12" name="Dell Pro Max 16 Plus MB16250" rtsDate="2025-07-16T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ Dell Pro Max 16 Plus MB16250 ]]></Display>
-        </Model>
-      </Brand>
-    </SupportedSystems>
-    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=5G9DW">
-      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
-    </ImportantInfo>
-    <Cryptography>
-      <Hash algorithm="MD5">8BCC649CB44470974A9819FF1295C658</Hash>
-      <Hash algorithm="SHA1">5151B7D6A67CA7363CB00024218DB12240CFEEA3</Hash>
-      <Hash algorithm="SHA256">88B52291188D8EBE4D511C54AECBDB11ABDB12D00472FD46E8A6306DB1F55CDD</Hash>
-    </Cryptography>
-    <DriverPackMetadataInfo>
-      <Size>553837</Size>
-      <path>FOLDER14328292M/1/MB16250-5G9DW_Win10_1.0_A04.xml</path>
-      <Cryptography>
-        <Hash algorithm="MD5">649ECFE22959F74F80AECC5290E1F13F</Hash>
-        <Hash algorithm="SHA1">009329F3ED1E8B7931613971CA05240F3B6C5418</Hash>
-        <Hash algorithm="SHA256">72A670D1E9F7EEFE34901D77549AA7C655498B2EDB23AB5AC0835096001D9DA7</Hash>
-      </Cryptography>
-    </DriverPackMetadataInfo>
-  </DriverPackage>
-  <DriverPackage format="exe" hashMD5="F96B8A16964B85982091CBF7573EF6A6" size="2441527328" dateTime="2026-04-10T02:09:16" vendorVersion="1.0" dellVersion="A04" path="FOLDER14328309M/1/MB16250-3XX5K_Win11_1.0_A04.exe" releaseID="3XX5K" delta="" type="win">
-    <Name>
-      <Display lang="en"><![CDATA[MB16250-3XX5K_Win11_1.0_A04.exe]]></Display>
-    </Name>
-    <Description>
-      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
-1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
-2) Create a system-level optimized deployment sequence
-3) Setup an appropriate boot control sequence.
-4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
-    </Description>
-    <SupportedOperatingSystems>
-      <OperatingSystem osCode="Windows11" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
-        <Display lang="en"><![CDATA[ Windows 11 x64 ]]></Display>
-        <SupportedLanguages>
-          <Language lang="en">English</Language>
-        </SupportedLanguages>
-      </OperatingSystem>
-    </SupportedOperatingSystems>
-    <SupportedSystems>
-      <Brand key="60" prefix="DPML">
-        <Display lang="en"><![CDATA[ Dell Pro Max Laptops ]]></Display>
-        <Model systemID="0D12" name="Dell Pro Max 16 Plus MB16250" rtsDate="2025-07-16T16:00:00" generation="">
-          <Display lang="en"><![CDATA[ Dell Pro Max 16 Plus MB16250 ]]></Display>
-        </Model>
-      </Brand>
-    </SupportedSystems>
-    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=3XX5K">
-      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
-    </ImportantInfo>
-    <Cryptography>
-      <Hash algorithm="MD5">F96B8A16964B85982091CBF7573EF6A6</Hash>
-      <Hash algorithm="SHA1">C631D847C49166DDE410173481DD1777BB2438C8</Hash>
-      <Hash algorithm="SHA256">3790542866B14FCD2D40390C48D84667314E3D70FE818AD5D7CB0E9FE8E0F19C</Hash>
-    </Cryptography>
-    <DriverPackMetadataInfo>
-      <Size>604954</Size>
-      <path>FOLDER14328291M/1/MB16250-3XX5K_Win11_1.0_A04.xml</path>
-      <Cryptography>
-        <Hash algorithm="MD5">733AF97749BC77DA7308EB8C0F9AA2E1</Hash>
-        <Hash algorithm="SHA1">7D50AB89C25C8A34875CAD32241FA0B5051EA371</Hash>
-        <Hash algorithm="SHA256">7454DEEF4E06A05075CEF420DE887FF91F04CC45DB81BA96F03FC20AEF627E76</Hash>
       </Cryptography>
     </DriverPackMetadataInfo>
   </DriverPackage>
@@ -54015,153 +53343,6 @@
       </Cryptography>
     </DriverPackMetadataInfo>
   </DriverPackage>
-  <DriverPackage format="exe" hashMD5="DB091128B6969FC52AF389CDBA8B55E4" size="2631655560" dateTime="2026-05-25T04:46:52" vendorVersion="1.0" dellVersion="A08" path="FOLDER14349718M/1/Precision-3280-Compact-98TDK_Win11_1.0_A08.exe" releaseID="98TDK" delta="" type="win">
-    <Name>
-      <Display lang="en"><![CDATA[Precision-3280-Compact-98TDK_Win11_1.0_A08.exe]]></Display>
-    </Name>
-    <Description>
-      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
-1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
-2) Create a system-level optimized deployment sequence
-3) Setup an appropriate boot control sequence.
-4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
-    </Description>
-    <SupportedOperatingSystems>
-      <OperatingSystem osCode="Windows11" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
-        <Display lang="en"><![CDATA[ Windows 11 x64 ]]></Display>
-        <SupportedLanguages>
-          <Language lang="en">English</Language>
-        </SupportedLanguages>
-      </OperatingSystem>
-    </SupportedOperatingSystems>
-    <SupportedSystems>
-      <Brand key="11" prefix="PRE">
-        <Display lang="en"><![CDATA[ Precision ]]></Display>
-        <Model systemID="0C81" name="Precision 3280 Compact" rtsDate="2024-03-26T05:00:00" generation="">
-          <Display lang="en"><![CDATA[ Precision 3280 Compact ]]></Display>
-        </Model>
-      </Brand>
-    </SupportedSystems>
-    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=98TDK">
-      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
-    </ImportantInfo>
-    <Cryptography>
-      <Hash algorithm="MD5">DB091128B6969FC52AF389CDBA8B55E4</Hash>
-      <Hash algorithm="SHA1">67A0C6F23FC815750DD2DB708DD560CA18226A1D</Hash>
-      <Hash algorithm="SHA256">4413011F127A3F1685D7BA9BCEF920F1DC3FBB9FBFCFEAFDB4E1CC8FF90B3A46</Hash>
-    </Cryptography>
-    <DriverPackMetadataInfo>
-      <Size>434081</Size>
-      <path>FOLDER14349699M/1/Precision-3280-Compact-98TDK_Win11_1.0_A08.xml</path>
-      <Cryptography>
-        <Hash algorithm="MD5">CE1CDABF3FDCA17EC11C877657B38306</Hash>
-        <Hash algorithm="SHA1">6E675219A9A4806C54B89A6CECBF45A065798BA8</Hash>
-        <Hash algorithm="SHA256">750CCE21C1BB426461F0395D2377DD4DA017F5289EB763FF87555CBA1277639A</Hash>
-      </Cryptography>
-    </DriverPackMetadataInfo>
-  </DriverPackage>
-  <DriverPackage format="exe" hashMD5="4080F1EECE2A68C64AB4D74471522730" size="1874021072" dateTime="2026-05-25T04:46:52" vendorVersion="1.0" dellVersion="A18" path="FOLDER14521423M/1/Precision-3260-Compact-C3P05_Win10_1.0_A18.exe" releaseID="C3P05" delta="" type="win">
-    <Name>
-      <Display lang="en"><![CDATA[Precision-3260-Compact-C3P05_Win10_1.0_A18.exe]]></Display>
-    </Name>
-    <Description>
-      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
-1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
-2) Create a system-level optimized deployment sequence
-3) Setup an appropriate boot control sequence.
-4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
-    </Description>
-    <SupportedOperatingSystems>
-      <OperatingSystem osCode="Windows10" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
-        <Display lang="en"><![CDATA[ Windows 10 x64 ]]></Display>
-        <SupportedLanguages>
-          <Language lang="en">English</Language>
-        </SupportedLanguages>
-      </OperatingSystem>
-    </SupportedOperatingSystems>
-    <SupportedSystems>
-      <Brand key="11" prefix="PRE">
-        <Display lang="en"><![CDATA[ Precision ]]></Display>
-        <Model systemID="0AC9" name="Precision 3260 Compact" rtsDate="2022-03-17T05:00:00" generation="TBD">
-          <Display lang="en"><![CDATA[ Precision 3260 Compact ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="11" prefix="PRE">
-        <Display lang="en"><![CDATA[ Precision ]]></Display>
-        <Model systemID="0ACA" name="Precision 3260 Compact" rtsDate="2022-03-17T05:00:00" generation="TBD">
-          <Display lang="en"><![CDATA[ Precision 3260 Compact ]]></Display>
-        </Model>
-      </Brand>
-    </SupportedSystems>
-    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=C3P05">
-      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
-    </ImportantInfo>
-    <Cryptography>
-      <Hash algorithm="MD5">4080F1EECE2A68C64AB4D74471522730</Hash>
-      <Hash algorithm="SHA1">D6165262C23D4960819D9D1B7F388949EB4623DF</Hash>
-      <Hash algorithm="SHA256">EC3F9A7D0F78D80FD73D5D41D04BDE73F203EE0D7F3A367CCD3E963C4B2ED0ED</Hash>
-    </Cryptography>
-    <DriverPackMetadataInfo>
-      <Size>540244</Size>
-      <path>FOLDER14521416M/1/Precision-3260-Compact-C3P05_Win10_1.0_A18.xml</path>
-      <Cryptography>
-        <Hash algorithm="MD5">8BA20004AA881CD354FD05B33CB4AABD</Hash>
-        <Hash algorithm="SHA1">31B0CC8C2933648AD112C3F6D566CFBFE3D09345</Hash>
-        <Hash algorithm="SHA256">E6F5593109AC3A811C7BF1E86D62300A9A391139DEB91904B055594C56801607</Hash>
-      </Cryptography>
-    </DriverPackMetadataInfo>
-  </DriverPackage>
-  <DriverPackage format="exe" hashMD5="AFDE3F5FC73927FE7EB28DF5CD77552F" size="2958510192" dateTime="2026-05-25T04:46:52" vendorVersion="1.0" dellVersion="A17" path="FOLDER14521437M/1/Precision-3260-Compact-J3XHF_Win11_1.0_A17.exe" releaseID="J3XHF" delta="" type="win">
-    <Name>
-      <Display lang="en"><![CDATA[Precision-3260-Compact-J3XHF_Win11_1.0_A17.exe]]></Display>
-    </Name>
-    <Description>
-      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
-1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
-2) Create a system-level optimized deployment sequence
-3) Setup an appropriate boot control sequence.
-4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
-    </Description>
-    <SupportedOperatingSystems>
-      <OperatingSystem osCode="Windows11" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
-        <Display lang="en"><![CDATA[ Windows 11 x64 ]]></Display>
-        <SupportedLanguages>
-          <Language lang="en">English</Language>
-        </SupportedLanguages>
-      </OperatingSystem>
-    </SupportedOperatingSystems>
-    <SupportedSystems>
-      <Brand key="11" prefix="PRE">
-        <Display lang="en"><![CDATA[ Precision ]]></Display>
-        <Model systemID="0AC9" name="Precision 3260 Compact" rtsDate="2022-03-17T05:00:00" generation="TBD">
-          <Display lang="en"><![CDATA[ Precision 3260 Compact ]]></Display>
-        </Model>
-      </Brand>
-      <Brand key="11" prefix="PRE">
-        <Display lang="en"><![CDATA[ Precision ]]></Display>
-        <Model systemID="0ACA" name="Precision 3260 Compact" rtsDate="2022-03-17T05:00:00" generation="TBD">
-          <Display lang="en"><![CDATA[ Precision 3260 Compact ]]></Display>
-        </Model>
-      </Brand>
-    </SupportedSystems>
-    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=J3XHF">
-      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
-    </ImportantInfo>
-    <Cryptography>
-      <Hash algorithm="MD5">AFDE3F5FC73927FE7EB28DF5CD77552F</Hash>
-      <Hash algorithm="SHA1">05A2EE27390A21563D8BA46570F2E26AC1AEC068</Hash>
-      <Hash algorithm="SHA256">F9CE8A540375D1B4A1962EF48B451EF26506C2D5238C873D330526711D762D64</Hash>
-    </Cryptography>
-    <DriverPackMetadataInfo>
-      <Size>803080</Size>
-      <path>FOLDER14521429M/1/Precision-3260-Compact-J3XHF_Win11_1.0_A17.xml</path>
-      <Cryptography>
-        <Hash algorithm="MD5">7070929CF2D5740729CA21308A6B8280</Hash>
-        <Hash algorithm="SHA1">97C8641983CB1B7DA444E21D4186923B34286227</Hash>
-        <Hash algorithm="SHA256">85CA9DD9D501CF058988EEFA0C9216BE4C8CB650CB34D43C5A1F01573037BC16</Hash>
-      </Cryptography>
-    </DriverPackMetadataInfo>
-  </DriverPackage>
   <DriverPackage format="exe" hashMD5="1D28FE37E014F58A4600C4DF8BD81858" size="3148277768" dateTime="2026-05-25T04:46:52" vendorVersion="1.0" dellVersion="A10" path="FOLDER14525384M/1/Latitude-5450-31H8R_Win10_1.0_A10.exe" releaseID="31H8R" delta="" type="win">
     <Name>
       <Display lang="en"><![CDATA[Latitude-5450-31H8R_Win10_1.0_A10.exe]]></Display>
@@ -55251,6 +54432,825 @@
         <Hash algorithm="MD5">86E3FB703D8F024B71A12552620F63F9</Hash>
         <Hash algorithm="SHA1">1394B2842C00A214E2491EB24E58E7F51E674A2A</Hash>
         <Hash algorithm="SHA256">1AAF8523A90BC950BD9E490AA7413264B0A1B214C8AEAC443D2364F92418C0F8</Hash>
+      </Cryptography>
+    </DriverPackMetadataInfo>
+  </DriverPackage>
+  <DriverPackage format="exe" hashMD5="B2ECE295368EE2D0BD14BBB33AC46367" size="2121428600" dateTime="2026-06-08T00:22:12" vendorVersion="1.0" dellVersion="A10" path="FOLDER14630666M/1/Latitude-7450-CFP74_Win10_1.0_A10.exe" releaseID="CFP74" delta="" type="win">
+    <Name>
+      <Display lang="en"><![CDATA[Latitude-7450-CFP74_Win10_1.0_A10.exe]]></Display>
+    </Name>
+    <Description>
+      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
+1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
+2) Create a system-level optimized deployment sequence
+3) Setup an appropriate boot control sequence.
+4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
+    </Description>
+    <SupportedOperatingSystems>
+      <OperatingSystem osCode="Windows10" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+        <Display lang="en"><![CDATA[ Windows 10 x64 ]]></Display>
+        <SupportedLanguages>
+          <Language lang="en">English</Language>
+        </SupportedLanguages>
+      </OperatingSystem>
+    </SupportedOperatingSystems>
+    <SupportedSystems>
+      <Brand key="4" prefix="LAT">
+        <Display lang="en"><![CDATA[ Latitude ]]></Display>
+        <Model systemID="0CC1" name="Latitude 7450" rtsDate="2024-03-04T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ Latitude 7450 ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="4" prefix="LAT">
+        <Display lang="en"><![CDATA[ Latitude ]]></Display>
+        <Model systemID="0CC2" name="Latitude 7450" rtsDate="2024-03-04T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ Latitude 7450 ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="4" prefix="LAT">
+        <Display lang="en"><![CDATA[ Latitude ]]></Display>
+        <Model systemID="0CC3" name="Latitude 7450" rtsDate="2024-03-04T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ Latitude 7450 ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="4" prefix="LAT">
+        <Display lang="en"><![CDATA[ Latitude ]]></Display>
+        <Model systemID="0CC5" name="Latitude 7450" rtsDate="2024-03-04T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ Latitude 7450 ]]></Display>
+        </Model>
+      </Brand>
+    </SupportedSystems>
+    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=CFP74">
+      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
+    </ImportantInfo>
+    <Cryptography>
+      <Hash algorithm="MD5">B2ECE295368EE2D0BD14BBB33AC46367</Hash>
+      <Hash algorithm="SHA1">BAD50D01FA5DD093E6B5708812BC869E4A2DCE8B</Hash>
+      <Hash algorithm="SHA256">38EAD1374076EF5B746491CE50EBDDE340F6E337D6974914FA893DC70A78B7B9</Hash>
+    </Cryptography>
+    <DriverPackMetadataInfo>
+      <Size>1957998</Size>
+      <path>FOLDER14630648M/1/Latitude-7450-CFP74_Win10_1.0_A10.xml</path>
+      <Cryptography>
+        <Hash algorithm="MD5">1E6970B4388B5A1335707B3DFA39C0C0</Hash>
+        <Hash algorithm="SHA1">C90712EB016A3AA62EAB15FE94C9735D4EB7C245</Hash>
+        <Hash algorithm="SHA256">F601D5EF84C73B17CCEEFD79EF783AD39A309F5B723D5A9ECE24B9CEA889D69E</Hash>
+      </Cryptography>
+    </DriverPackMetadataInfo>
+  </DriverPackage>
+  <DriverPackage format="exe" hashMD5="E603128E20EF3C20F39834D7561F3F00" size="1955603168" dateTime="2026-06-08T00:22:12" vendorVersion="1.0" dellVersion="A10" path="FOLDER14525456M/1/Latitude-7450-2X2TF_Win11_1.0_A10.exe" releaseID="2X2TF" delta="" type="win">
+    <Name>
+      <Display lang="en"><![CDATA[Latitude-7450-2X2TF_Win11_1.0_A10.exe]]></Display>
+    </Name>
+    <Description>
+      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
+1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
+2) Create a system-level optimized deployment sequence
+3) Setup an appropriate boot control sequence.
+4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
+    </Description>
+    <SupportedOperatingSystems>
+      <OperatingSystem osCode="Windows11" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+        <Display lang="en"><![CDATA[ Windows 11 x64 ]]></Display>
+        <SupportedLanguages>
+          <Language lang="en">English</Language>
+        </SupportedLanguages>
+      </OperatingSystem>
+    </SupportedOperatingSystems>
+    <SupportedSystems>
+      <Brand key="4" prefix="LAT">
+        <Display lang="en"><![CDATA[ Latitude ]]></Display>
+        <Model systemID="0CC1" name="Latitude 7450" rtsDate="2024-03-04T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ Latitude 7450 ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="4" prefix="LAT">
+        <Display lang="en"><![CDATA[ Latitude ]]></Display>
+        <Model systemID="0CC2" name="Latitude 7450" rtsDate="2024-03-04T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ Latitude 7450 ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="4" prefix="LAT">
+        <Display lang="en"><![CDATA[ Latitude ]]></Display>
+        <Model systemID="0CC3" name="Latitude 7450" rtsDate="2024-03-04T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ Latitude 7450 ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="4" prefix="LAT">
+        <Display lang="en"><![CDATA[ Latitude ]]></Display>
+        <Model systemID="0CC5" name="Latitude 7450" rtsDate="2024-03-04T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ Latitude 7450 ]]></Display>
+        </Model>
+      </Brand>
+    </SupportedSystems>
+    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=2X2TF">
+      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
+    </ImportantInfo>
+    <Cryptography>
+      <Hash algorithm="MD5">E603128E20EF3C20F39834D7561F3F00</Hash>
+      <Hash algorithm="SHA1">2896BCBC2057F2EF7DFACFF6409312A5F2412E54</Hash>
+      <Hash algorithm="SHA256">8B9BC863C1EB4E10E8EB267B63BF572E5386E0788EEBFA6575C70EBB13426CC0</Hash>
+    </Cryptography>
+    <DriverPackMetadataInfo>
+      <Size>2228658</Size>
+      <path>FOLDER14525448M/1/Latitude-7450-2X2TF_Win11_1.0_A10.xml</path>
+      <Cryptography>
+        <Hash algorithm="MD5">4A2984420EB268E9B2EFB44333308FC7</Hash>
+        <Hash algorithm="SHA1">93D2895DFDA1884A288F5264C55D50A390126994</Hash>
+        <Hash algorithm="SHA256">CD345D7081EA21455B30427FD24C3033E340FA4278F558EDD1DAE393C2956A34</Hash>
+      </Cryptography>
+    </DriverPackMetadataInfo>
+  </DriverPackage>
+  <DriverPackage format="exe" hashMD5="AAD5833FB65E10982DCCD23DFB7484DF" size="2111074464" dateTime="2026-06-08T00:22:12" vendorVersion="1.0" dellVersion="A10" path="FOLDER14566211M/1/Latitude-7650-63VR6_Win10_1.0_A10.exe" releaseID="63VR6" delta="" type="win">
+    <Name>
+      <Display lang="en"><![CDATA[Latitude-7650-63VR6_Win10_1.0_A10.exe]]></Display>
+    </Name>
+    <Description>
+      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
+1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
+2) Create a system-level optimized deployment sequence
+3) Setup an appropriate boot control sequence.
+4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
+    </Description>
+    <SupportedOperatingSystems>
+      <OperatingSystem osCode="Windows10" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+        <Display lang="en"><![CDATA[ Windows 10 x64 ]]></Display>
+        <SupportedLanguages>
+          <Language lang="en">English</Language>
+        </SupportedLanguages>
+      </OperatingSystem>
+    </SupportedOperatingSystems>
+    <SupportedSystems>
+      <Brand key="4" prefix="LAT">
+        <Display lang="en"><![CDATA[ Latitude ]]></Display>
+        <Model systemID="0CC4" name="Latitude 7650" rtsDate="2024-03-24T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ Latitude 7650 ]]></Display>
+        </Model>
+      </Brand>
+    </SupportedSystems>
+    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=63VR6">
+      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
+    </ImportantInfo>
+    <Cryptography>
+      <Hash algorithm="MD5">AAD5833FB65E10982DCCD23DFB7484DF</Hash>
+      <Hash algorithm="SHA1">2B84D61A8BF64A279DD0366EFB46FC7AE6541B18</Hash>
+      <Hash algorithm="SHA256">FB6F5EB8951642F2C83FE6443DA25E2AA92D6068866A61BD778C601B2D28090F</Hash>
+    </Cryptography>
+    <DriverPackMetadataInfo>
+      <Size>484597</Size>
+      <path>FOLDER14566196M/1/Latitude-7650-63VR6_Win10_1.0_A10.xml</path>
+      <Cryptography>
+        <Hash algorithm="MD5">9719B5BD0B2E8D5351C02418F19257E4</Hash>
+        <Hash algorithm="SHA1">EE029D3825D153B0C5BD1CCA31CBE7F1B80DD7A4</Hash>
+        <Hash algorithm="SHA256">44B26215C00C43F2C2C3A7E93846018FDB4F7203CEF14D4C6E1B24E3C6079FFE</Hash>
+      </Cryptography>
+    </DriverPackMetadataInfo>
+  </DriverPackage>
+  <DriverPackage format="exe" hashMD5="6B12F3F5D10DD411561764BF888D19F2" size="1949389296" dateTime="2026-06-08T00:22:12" vendorVersion="1.0" dellVersion="A10" path="FOLDER14566238M/1/Latitude-7650-023WD_Win11_1.0_A10.exe" releaseID="023WD" delta="" type="win">
+    <Name>
+      <Display lang="en"><![CDATA[Latitude-7650-023WD_Win11_1.0_A10.exe]]></Display>
+    </Name>
+    <Description>
+      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
+1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
+2) Create a system-level optimized deployment sequence
+3) Setup an appropriate boot control sequence.
+4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
+    </Description>
+    <SupportedOperatingSystems>
+      <OperatingSystem osCode="Windows11" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+        <Display lang="en"><![CDATA[ Windows 11 x64 ]]></Display>
+        <SupportedLanguages>
+          <Language lang="en">English</Language>
+        </SupportedLanguages>
+      </OperatingSystem>
+    </SupportedOperatingSystems>
+    <SupportedSystems>
+      <Brand key="4" prefix="LAT">
+        <Display lang="en"><![CDATA[ Latitude ]]></Display>
+        <Model systemID="0CC4" name="Latitude 7650" rtsDate="2024-03-24T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ Latitude 7650 ]]></Display>
+        </Model>
+      </Brand>
+    </SupportedSystems>
+    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=023WD">
+      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
+    </ImportantInfo>
+    <Cryptography>
+      <Hash algorithm="MD5">6B12F3F5D10DD411561764BF888D19F2</Hash>
+      <Hash algorithm="SHA1">1A63390A7FAB9BD293B15FB8B022905651E6A35F</Hash>
+      <Hash algorithm="SHA256">2F1BC69DA82B8CF130EE7A385A88FE23CC257D63DE7D4577F3DA7BAA321A323C</Hash>
+    </Cryptography>
+    <DriverPackMetadataInfo>
+      <Size>553584</Size>
+      <path>FOLDER14566228M/1/Latitude-7650-023WD_Win11_1.0_A10.xml</path>
+      <Cryptography>
+        <Hash algorithm="MD5">9A99B080F741897C272AD47EBEE4D371</Hash>
+        <Hash algorithm="SHA1">15F84D9BB503648137C2E9A842DA4861BF877C0B</Hash>
+        <Hash algorithm="SHA256">67E1E9A5552F093E2B5B4A6142B885790F297F3A0425F9CDB53AC0D91C437BD3</Hash>
+      </Cryptography>
+    </DriverPackMetadataInfo>
+  </DriverPackage>
+  <DriverPackage format="exe" hashMD5="D42D002A1A81E45C32A2461EF92CCFD7" size="1783198256" dateTime="2026-06-08T00:22:12" vendorVersion="1.0" dellVersion="A06" path="FOLDER14630171M/1/MC16255-2VYW9_Win11_1.0_A06.exe" releaseID="2VYW9" delta="" type="win">
+    <Name>
+      <Display lang="en"><![CDATA[MC16255-2VYW9_Win11_1.0_A06.exe]]></Display>
+    </Name>
+    <Description>
+      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
+1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
+2) Create a system-level optimized deployment sequence
+3) Setup an appropriate boot control sequence.
+4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
+    </Description>
+    <SupportedOperatingSystems>
+      <OperatingSystem osCode="Windows11" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+        <Display lang="en"><![CDATA[ Windows 11 x64 ]]></Display>
+        <SupportedLanguages>
+          <Language lang="en">English</Language>
+        </SupportedLanguages>
+      </OperatingSystem>
+    </SupportedOperatingSystems>
+    <SupportedSystems>
+      <Brand key="60" prefix="DPML">
+        <Display lang="en"><![CDATA[ Dell Pro Max Laptops ]]></Display>
+        <Model systemID="0D82" name="Dell Pro Max 16 MC16255" rtsDate="2025-07-16T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ Dell Pro Max 16 MC16255 ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="60" prefix="DPML">
+        <Display lang="en"><![CDATA[ Dell Pro Max Laptops ]]></Display>
+        <Model systemID="0D83" name="Dell Pro Max 16 MC16255" rtsDate="2025-07-16T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ Dell Pro Max 16 MC16255 ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="60" prefix="DPML">
+        <Display lang="en"><![CDATA[ Dell Pro Max Laptops ]]></Display>
+        <Model systemID="0DD4" name="Dell Pro Max 16 MC16255" rtsDate="2025-07-16T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ Dell Pro Max 16 MC16255 ]]></Display>
+        </Model>
+      </Brand>
+    </SupportedSystems>
+    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=2VYW9">
+      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
+    </ImportantInfo>
+    <Cryptography>
+      <Hash algorithm="MD5">D42D002A1A81E45C32A2461EF92CCFD7</Hash>
+      <Hash algorithm="SHA1">877059B879F59EE5DBF6C4ADE35E6F6BEBF2B54E</Hash>
+      <Hash algorithm="SHA256">E3E14A148A8AF508A8E6C052F0BE67A3E46B25F79ED132863D5CA7F4C558FBAC</Hash>
+    </Cryptography>
+    <DriverPackMetadataInfo>
+      <Size>911524</Size>
+      <path>FOLDER14630159M/1/MC16255-2VYW9_Win11_1.0_A06.xml</path>
+      <Cryptography>
+        <Hash algorithm="MD5">605129E825F1BA8A07B9F6A16A17DB46</Hash>
+        <Hash algorithm="SHA1">8264AA326C9BB4257847B69FD1B0C9D39042B892</Hash>
+        <Hash algorithm="SHA256">C2F929200C8FB494B2988821236D1C12424D05FB45FDE0ABB14CD2DEC7A3BE55</Hash>
+      </Cryptography>
+    </DriverPackMetadataInfo>
+  </DriverPackage>
+  <DriverPackage format="exe" hashMD5="4DC9CDB556A1127AA31A64D9594322CB" size="2529260864" dateTime="2026-06-08T00:22:12" vendorVersion="1.0" dellVersion="A13" path="FOLDER14418514M/1/XPS-15-9530-K5VTV_Win11_1.0_A13.exe" releaseID="K5VTV" delta="" type="win">
+    <Name>
+      <Display lang="en"><![CDATA[XPS-15-9530-K5VTV_Win11_1.0_A13.exe]]></Display>
+    </Name>
+    <Description>
+      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
+1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
+2) Create a system-level optimized deployment sequence
+3) Setup an appropriate boot control sequence.
+4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
+    </Description>
+    <SupportedOperatingSystems>
+      <OperatingSystem osCode="Windows11" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+        <Display lang="en"><![CDATA[ Windows 11 x64 ]]></Display>
+        <SupportedLanguages>
+          <Language lang="en">English</Language>
+        </SupportedLanguages>
+      </OperatingSystem>
+    </SupportedOperatingSystems>
+    <SupportedSystems>
+      <Brand key="72" prefix="XPSNOTEBOOK">
+        <Display lang="en"><![CDATA[ XPS Notebook ]]></Display>
+        <Model systemID="0BEB" name="XPS 15 9530" rtsDate="2023-02-28T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ XPS 15 9530 ]]></Display>
+        </Model>
+      </Brand>
+    </SupportedSystems>
+    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=K5VTV">
+      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
+    </ImportantInfo>
+    <Cryptography>
+      <Hash algorithm="MD5">4DC9CDB556A1127AA31A64D9594322CB</Hash>
+      <Hash algorithm="SHA1">7F529B441000DF8617D76ED2996C853652E43217</Hash>
+      <Hash algorithm="SHA256">7F8F89FA6CDFE41A97AC76713F8B6E538E0D29BBD8490C52802D5CF1E0CADCD7</Hash>
+    </Cryptography>
+    <DriverPackMetadataInfo>
+      <Size>525242</Size>
+      <path>FOLDER14418474M/1/XPS-15-9530-K5VTV_Win11_1.0_A13.xml</path>
+      <Cryptography>
+        <Hash algorithm="MD5">1835F14EB5C3D0E92A13F7D4B72EFBCD</Hash>
+        <Hash algorithm="SHA1">FFE1FF0B0C4D6EE8B310D023645F5E87F6A5A76B</Hash>
+        <Hash algorithm="SHA256">2C4BFC1A78E9DF2B2659B0A7A8D3D81F4A4FCC260F792E9A5BCBC6D0CC527502</Hash>
+      </Cryptography>
+    </DriverPackMetadataInfo>
+  </DriverPackage>
+  <DriverPackage format="exe" hashMD5="8DBD831A88D26F666730283704907CD8" size="2957920104" dateTime="2026-06-08T00:22:12" vendorVersion="1.0" dellVersion="A18" path="FOLDER14630267M/1/Precision-3260-Compact-1N3DV_Win11_1.0_A18.exe" releaseID="1N3DV" delta="" type="win">
+    <Name>
+      <Display lang="en"><![CDATA[Precision-3260-Compact-1N3DV_Win11_1.0_A18.exe]]></Display>
+    </Name>
+    <Description>
+      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
+1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
+2) Create a system-level optimized deployment sequence
+3) Setup an appropriate boot control sequence.
+4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
+    </Description>
+    <SupportedOperatingSystems>
+      <OperatingSystem osCode="Windows11" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+        <Display lang="en"><![CDATA[ Windows 11 x64 ]]></Display>
+        <SupportedLanguages>
+          <Language lang="en">English</Language>
+        </SupportedLanguages>
+      </OperatingSystem>
+    </SupportedOperatingSystems>
+    <SupportedSystems>
+      <Brand key="11" prefix="PRE">
+        <Display lang="en"><![CDATA[ Precision ]]></Display>
+        <Model systemID="0AC9" name="Precision 3260 Compact" rtsDate="2022-03-17T05:00:00" generation="TBD">
+          <Display lang="en"><![CDATA[ Precision 3260 Compact ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="11" prefix="PRE">
+        <Display lang="en"><![CDATA[ Precision ]]></Display>
+        <Model systemID="0ACA" name="Precision 3260 Compact" rtsDate="2022-03-17T05:00:00" generation="TBD">
+          <Display lang="en"><![CDATA[ Precision 3260 Compact ]]></Display>
+        </Model>
+      </Brand>
+    </SupportedSystems>
+    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=1N3DV">
+      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
+    </ImportantInfo>
+    <Cryptography>
+      <Hash algorithm="MD5">8DBD831A88D26F666730283704907CD8</Hash>
+      <Hash algorithm="SHA1">9F9B7D6FD5A08AFB91041F810B67038E693FB8E0</Hash>
+      <Hash algorithm="SHA256">8CBD400ED490E70E1C584B6CACF2336C6A039B67407726045A56E03A163FB768</Hash>
+    </Cryptography>
+    <DriverPackMetadataInfo>
+      <Size>812220</Size>
+      <path>FOLDER14630227M/1/Precision-3260-Compact-1N3DV_Win11_1.0_A18.xml</path>
+      <Cryptography>
+        <Hash algorithm="MD5">128D13B902F993D603FBEBDCAEACFBA5</Hash>
+        <Hash algorithm="SHA1">05628D9ADDB338A88A36B969A86C136DB4973FAB</Hash>
+        <Hash algorithm="SHA256">A1819CC6C7127C413913243D13FBE67E03D53787D1C936398649098E6A1206D3</Hash>
+      </Cryptography>
+    </DriverPackMetadataInfo>
+  </DriverPackage>
+  <DriverPackage format="exe" hashMD5="B1AF551291748ED3EA47D4E648D6822E" size="1327477208" dateTime="2026-06-08T00:22:12" vendorVersion="1.0" dellVersion="A12" path="FOLDER14615910M/1/Latitude-5350-YCJ3W_Win11_1.0_A12.exe" releaseID="YCJ3W" delta="" type="win">
+    <Name>
+      <Display lang="en"><![CDATA[Latitude-5350-YCJ3W_Win11_1.0_A12.exe]]></Display>
+    </Name>
+    <Description>
+      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
+1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
+2) Create a system-level optimized deployment sequence
+3) Setup an appropriate boot control sequence.
+4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
+    </Description>
+    <SupportedOperatingSystems>
+      <OperatingSystem osCode="Windows11" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+        <Display lang="en"><![CDATA[ Windows 11 x64 ]]></Display>
+        <SupportedLanguages>
+          <Language lang="en">English</Language>
+        </SupportedLanguages>
+      </OperatingSystem>
+    </SupportedOperatingSystems>
+    <SupportedSystems>
+      <Brand key="4" prefix="LAT">
+        <Display lang="en"><![CDATA[ Latitude ]]></Display>
+        <Model systemID="0CB5" name="Latitude 5350" rtsDate="2024-03-04T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ Latitude 5350 ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="4" prefix="LAT">
+        <Display lang="en"><![CDATA[ Latitude ]]></Display>
+        <Model systemID="0CB7" name="Latitude 5350" rtsDate="2024-03-04T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ Latitude 5350 ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="4" prefix="LAT">
+        <Display lang="en"><![CDATA[ Latitude ]]></Display>
+        <Model systemID="0CB6" name="Latitude 5350" rtsDate="2024-03-04T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ Latitude 5350 ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="4" prefix="LAT">
+        <Display lang="en"><![CDATA[ Latitude ]]></Display>
+        <Model systemID="0CB8" name="Latitude 5350" rtsDate="2024-03-04T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ Latitude 5350 ]]></Display>
+        </Model>
+      </Brand>
+    </SupportedSystems>
+    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=YCJ3W">
+      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
+    </ImportantInfo>
+    <Cryptography>
+      <Hash algorithm="MD5">B1AF551291748ED3EA47D4E648D6822E</Hash>
+      <Hash algorithm="SHA1">07C8D24049523A534892BB744ACEF488644EA135</Hash>
+      <Hash algorithm="SHA256">634AE62457B308D3EA80E12EA6ED20B335EA5E54B29A72E67D073619F7742F5A</Hash>
+    </Cryptography>
+    <DriverPackMetadataInfo>
+      <Size>1550738</Size>
+      <path>FOLDER14615899M/1/Latitude-5350-YCJ3W_Win11_1.0_A12.xml</path>
+      <Cryptography>
+        <Hash algorithm="MD5">ADEA3A5E25413B3642C378BC1AE86A98</Hash>
+        <Hash algorithm="SHA1">A81F980D5B92203DF89970EBA44B860FAE197F11</Hash>
+        <Hash algorithm="SHA256">E380561A6722D563603DE891E725B60CC77E01C14CF6D4EE680C6FD52463C878</Hash>
+      </Cryptography>
+    </DriverPackMetadataInfo>
+  </DriverPackage>
+  <DriverPackage format="exe" hashMD5="AEDBE5C1771C154C30E41CF460AC9DF8" size="2666519576" dateTime="2026-06-08T00:22:12" vendorVersion="1.0" dellVersion="A05" path="FOLDER14610473M/1/MB16250-K9TK1_Win10_1.0_A05.exe" releaseID="K9TK1" delta="" type="win">
+    <Name>
+      <Display lang="en"><![CDATA[MB16250-K9TK1_Win10_1.0_A05.exe]]></Display>
+    </Name>
+    <Description>
+      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
+1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
+2) Create a system-level optimized deployment sequence
+3) Setup an appropriate boot control sequence.
+4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
+    </Description>
+    <SupportedOperatingSystems>
+      <OperatingSystem osCode="Windows10" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+        <Display lang="en"><![CDATA[ Windows 10 x64 ]]></Display>
+        <SupportedLanguages>
+          <Language lang="en">English</Language>
+        </SupportedLanguages>
+      </OperatingSystem>
+    </SupportedOperatingSystems>
+    <SupportedSystems>
+      <Brand key="60" prefix="DPML">
+        <Display lang="en"><![CDATA[ Dell Pro Max Laptops ]]></Display>
+        <Model systemID="0D12" name="Dell Pro Max 16 Plus MB16250" rtsDate="2025-07-16T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ Dell Pro Max 16 Plus MB16250 ]]></Display>
+        </Model>
+      </Brand>
+    </SupportedSystems>
+    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=K9TK1">
+      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
+    </ImportantInfo>
+    <Cryptography>
+      <Hash algorithm="MD5">AEDBE5C1771C154C30E41CF460AC9DF8</Hash>
+      <Hash algorithm="SHA1">EA115A26EE25EE75127BE401D882F73777BD940F</Hash>
+      <Hash algorithm="SHA256">57EAE55BD1D8654DA8F9FD9779272002305E215AAD50F52CFF4043253B004B61</Hash>
+    </Cryptography>
+    <DriverPackMetadataInfo>
+      <Size>498122</Size>
+      <path>FOLDER14610444M/1/MB16250-K9TK1_Win10_1.0_A05.xml</path>
+      <Cryptography>
+        <Hash algorithm="MD5">86223921A3753EBB3176BD8835E28AAA</Hash>
+        <Hash algorithm="SHA1">0F596CAD76895148C9EA535381F0B454983D5223</Hash>
+        <Hash algorithm="SHA256">CA609AEDB636C4E71959E5EC7B1CBC95FF3B8314E707246909D436F33C5E83EE</Hash>
+      </Cryptography>
+    </DriverPackMetadataInfo>
+  </DriverPackage>
+  <DriverPackage format="exe" hashMD5="B396F69F764823902519315DDC8906E7" size="2619122256" dateTime="2026-05-25T04:46:52" vendorVersion="1.0" dellVersion="A09" path="FOLDER14520881M/1/Precision-3280-Compact-VNT5C_Win11_1.0_A09.exe" releaseID="VNT5C" delta="" type="win">
+    <Name>
+      <Display lang="en"><![CDATA[Precision-3280-Compact-VNT5C_Win11_1.0_A09.exe]]></Display>
+    </Name>
+    <Description>
+      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
+1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
+2) Create a system-level optimized deployment sequence
+3) Setup an appropriate boot control sequence.
+4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
+    </Description>
+    <SupportedOperatingSystems>
+      <OperatingSystem osCode="Windows11" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+        <Display lang="en"><![CDATA[ Windows 11 x64 ]]></Display>
+        <SupportedLanguages>
+          <Language lang="en">English</Language>
+        </SupportedLanguages>
+      </OperatingSystem>
+    </SupportedOperatingSystems>
+    <SupportedSystems>
+      <Brand key="11" prefix="PRE">
+        <Display lang="en"><![CDATA[ Precision ]]></Display>
+        <Model systemID="0C81" name="Precision 3280 Compact" rtsDate="2024-03-26T05:00:00" generation="">
+          <Display lang="en"><![CDATA[ Precision 3280 Compact ]]></Display>
+        </Model>
+      </Brand>
+    </SupportedSystems>
+    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=VNT5C">
+      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
+    </ImportantInfo>
+    <Cryptography>
+      <Hash algorithm="MD5">B396F69F764823902519315DDC8906E7</Hash>
+      <Hash algorithm="SHA1">BDF6390E24B01EC0B3A541DC58137ECA74165F71</Hash>
+      <Hash algorithm="SHA256">84D6EEA2E94422D5DF3C23FEB0CB3F2FB3B863E90CE2D930888765DD0ED57AAC</Hash>
+    </Cryptography>
+    <DriverPackMetadataInfo>
+      <Size>363653</Size>
+      <path>FOLDER14520861M/1/Precision-3280-Compact-VNT5C_Win11_1.0_A09.xml</path>
+      <Cryptography>
+        <Hash algorithm="MD5">E421B8C0E118C408C2E048E416F34117</Hash>
+        <Hash algorithm="SHA1">367B6AD2FE074955EC99F9DEB6ABE8547071E9A9</Hash>
+        <Hash algorithm="SHA256">10EE901EB0921ADE64CAF3BDFB917C6F64C5852EA65C78368A749B9A3D1A7CCF</Hash>
+      </Cryptography>
+    </DriverPackMetadataInfo>
+  </DriverPackage>
+  <DriverPackage format="exe" hashMD5="0079DFD64F6E99EECD6D03432477DD26" size="2969913160" dateTime="2026-06-08T00:22:12" vendorVersion="1.0" dellVersion="A13" path="FOLDER14418518M/1/OptiPlex-7010-Tower-P130Y_Win10_1.0_A13.exe" releaseID="P130Y" delta="" type="win">
+    <Name>
+      <Display lang="en"><![CDATA[OptiPlex-7010-Tower-P130Y_Win10_1.0_A13.exe]]></Display>
+    </Name>
+    <Description>
+      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
+1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
+2) Create a system-level optimized deployment sequence
+3) Setup an appropriate boot control sequence.
+4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
+    </Description>
+    <SupportedOperatingSystems>
+      <OperatingSystem osCode="Windows10" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+        <Display lang="en"><![CDATA[ Windows 10 x64 ]]></Display>
+        <SupportedLanguages>
+          <Language lang="en">English</Language>
+        </SupportedLanguages>
+      </OperatingSystem>
+    </SupportedOperatingSystems>
+    <SupportedSystems>
+      <Brand key="1" prefix="OP">
+        <Display lang="en"><![CDATA[ Optiplex ]]></Display>
+        <Model systemID="0BCC" name="OptiPlex 7010 Tower" rtsDate="2023-02-15T06:00:00" generation="">
+          <Display lang="en"><![CDATA[ OptiPlex 7010 Tower ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="1" prefix="OP">
+        <Display lang="en"><![CDATA[ Optiplex ]]></Display>
+        <Model systemID="0BCD" name="OptiPlex 7010 Tower" rtsDate="2023-02-15T06:00:00" generation="">
+          <Display lang="en"><![CDATA[ OptiPlex 7010 Tower ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="1" prefix="OP">
+        <Display lang="en"><![CDATA[ Optiplex ]]></Display>
+        <Model systemID="0BCE" name="OptiPlex 7010 Tower" rtsDate="2023-02-15T06:00:00" generation="">
+          <Display lang="en"><![CDATA[ OptiPlex 7010 Tower ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="1" prefix="OP">
+        <Display lang="en"><![CDATA[ Optiplex ]]></Display>
+        <Model systemID="0BCF" name="OptiPlex 7010 Tower" rtsDate="2023-02-15T06:00:00" generation="">
+          <Display lang="en"><![CDATA[ OptiPlex 7010 Tower ]]></Display>
+        </Model>
+      </Brand>
+    </SupportedSystems>
+    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=P130Y">
+      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
+    </ImportantInfo>
+    <Cryptography>
+      <Hash algorithm="MD5">0079DFD64F6E99EECD6D03432477DD26</Hash>
+      <Hash algorithm="SHA1">7C72BB92C029B94EEFD29B6D26219AE3F6353906</Hash>
+      <Hash algorithm="SHA256">7AE56D8408D6A6922EEE36A7478F9E5917F86F872A1B4BCEDFF813C2236CEB10</Hash>
+    </Cryptography>
+    <DriverPackMetadataInfo>
+      <Size>1328514</Size>
+      <path>FOLDER14418476M/1/OptiPlex-7010-Tower-P130Y_Win10_1.0_A13.xml</path>
+      <Cryptography>
+        <Hash algorithm="MD5">A4502E0B3A375642A07462FAD8BC7CC8</Hash>
+        <Hash algorithm="SHA1">6A828AC68687C274534074A00681B3C0F925BE29</Hash>
+        <Hash algorithm="SHA256">5833B3CE65BE12E4F47EB606B15E3481C4430F6FC92D53BF522B8713DD77AA2C</Hash>
+      </Cryptography>
+    </DriverPackMetadataInfo>
+  </DriverPackage>
+  <DriverPackage format="exe" hashMD5="2C87D8ADD4B3CD6BC72E190B093C2649" size="2973028704" dateTime="2026-06-08T00:22:12" vendorVersion="1.0" dellVersion="A13" path="FOLDER14418523M/1/OptiPlex-7010-Tower-DC6VX_Win11_1.0_A13.exe" releaseID="DC6VX" delta="" type="win">
+    <Name>
+      <Display lang="en"><![CDATA[OptiPlex-7010-Tower-DC6VX_Win11_1.0_A13.exe]]></Display>
+    </Name>
+    <Description>
+      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
+1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
+2) Create a system-level optimized deployment sequence
+3) Setup an appropriate boot control sequence.
+4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
+    </Description>
+    <SupportedOperatingSystems>
+      <OperatingSystem osCode="Windows11" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+        <Display lang="en"><![CDATA[ Windows 11 x64 ]]></Display>
+        <SupportedLanguages>
+          <Language lang="en">English</Language>
+        </SupportedLanguages>
+      </OperatingSystem>
+    </SupportedOperatingSystems>
+    <SupportedSystems>
+      <Brand key="1" prefix="OP">
+        <Display lang="en"><![CDATA[ Optiplex ]]></Display>
+        <Model systemID="0BCC" name="OptiPlex 7010 Tower" rtsDate="2023-02-15T06:00:00" generation="">
+          <Display lang="en"><![CDATA[ OptiPlex 7010 Tower ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="1" prefix="OP">
+        <Display lang="en"><![CDATA[ Optiplex ]]></Display>
+        <Model systemID="0BCD" name="OptiPlex 7010 Tower" rtsDate="2023-02-15T06:00:00" generation="">
+          <Display lang="en"><![CDATA[ OptiPlex 7010 Tower ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="1" prefix="OP">
+        <Display lang="en"><![CDATA[ Optiplex ]]></Display>
+        <Model systemID="0BCE" name="OptiPlex 7010 Tower" rtsDate="2023-02-15T06:00:00" generation="">
+          <Display lang="en"><![CDATA[ OptiPlex 7010 Tower ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="1" prefix="OP">
+        <Display lang="en"><![CDATA[ Optiplex ]]></Display>
+        <Model systemID="0BCF" name="OptiPlex 7010 Tower" rtsDate="2023-02-15T06:00:00" generation="">
+          <Display lang="en"><![CDATA[ OptiPlex 7010 Tower ]]></Display>
+        </Model>
+      </Brand>
+    </SupportedSystems>
+    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=DC6VX">
+      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
+    </ImportantInfo>
+    <Cryptography>
+      <Hash algorithm="MD5">2C87D8ADD4B3CD6BC72E190B093C2649</Hash>
+      <Hash algorithm="SHA1">09A2532808E25B574FF2013F3036010718FD6FA5</Hash>
+      <Hash algorithm="SHA256">70DBB3147997BB237ACCC9957E6C7B9FA1B70ECE8CA7A5DFBD37370B4BACF8F0</Hash>
+    </Cryptography>
+    <DriverPackMetadataInfo>
+      <Size>1379490</Size>
+      <path>FOLDER14418477M/1/OptiPlex-7010-Tower-DC6VX_Win11_1.0_A13.xml</path>
+      <Cryptography>
+        <Hash algorithm="MD5">18367BFCD62DA649B78285536523E1E5</Hash>
+        <Hash algorithm="SHA1">D1F159550E7482E3041D59CCCCA4CCA4329BD46A</Hash>
+        <Hash algorithm="SHA256">238A7DAA7AED2E2F952D708B192D466576D129560F28DFC2A84BD14330BA0B63</Hash>
+      </Cryptography>
+    </DriverPackMetadataInfo>
+  </DriverPackage>
+  <DriverPackage format="exe" hashMD5="820DA813BC92CE94136372EC0290BD27" size="2538506976" dateTime="2026-06-08T00:22:12" vendorVersion="1.0" dellVersion="A05" path="FOLDER14610507M/1/MB16250-56PCK_Win11_1.0_A05.exe" releaseID="56PCK" delta="" type="win">
+    <Name>
+      <Display lang="en"><![CDATA[MB16250-56PCK_Win11_1.0_A05.exe]]></Display>
+    </Name>
+    <Description>
+      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
+1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
+2) Create a system-level optimized deployment sequence
+3) Setup an appropriate boot control sequence.
+4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
+    </Description>
+    <SupportedOperatingSystems>
+      <OperatingSystem osCode="Windows11" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+        <Display lang="en"><![CDATA[ Windows 11 x64 ]]></Display>
+        <SupportedLanguages>
+          <Language lang="en">English</Language>
+        </SupportedLanguages>
+      </OperatingSystem>
+    </SupportedOperatingSystems>
+    <SupportedSystems>
+      <Brand key="60" prefix="DPML">
+        <Display lang="en"><![CDATA[ Dell Pro Max Laptops ]]></Display>
+        <Model systemID="0D12" name="Dell Pro Max 16 Plus MB16250" rtsDate="2025-07-16T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ Dell Pro Max 16 Plus MB16250 ]]></Display>
+        </Model>
+      </Brand>
+    </SupportedSystems>
+    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=56PCK">
+      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
+    </ImportantInfo>
+    <Cryptography>
+      <Hash algorithm="MD5">820DA813BC92CE94136372EC0290BD27</Hash>
+      <Hash algorithm="SHA1">CB3D7A5AFA6E48717118A216564B78E6D0152329</Hash>
+      <Hash algorithm="SHA256">882FC0DA5EDD0191C61323C65D87640799E6F2BA29D81B0BDB5F648C9FA8BAED</Hash>
+    </Cryptography>
+    <DriverPackMetadataInfo>
+      <Size>566654</Size>
+      <path>FOLDER14610469M/1/MB16250-56PCK_Win11_1.0_A05.xml</path>
+      <Cryptography>
+        <Hash algorithm="MD5">C52524EB4922D383C3F34BA8AC26A679</Hash>
+        <Hash algorithm="SHA1">62EC303F1734C281CEE94E8B32D2CA9D0CD455F4</Hash>
+        <Hash algorithm="SHA256">D12361D708CBDCAA5B1871546657FCE4AA690299207E32BCA4EAB34F633C8225</Hash>
+      </Cryptography>
+    </DriverPackMetadataInfo>
+  </DriverPackage>
+  <DriverPackage format="exe" hashMD5="D3E07FA311D32EB87BF1CB75D185AF91" size="2728133800" dateTime="2026-06-08T00:22:12" vendorVersion="1.0" dellVersion="A06" path="FOLDER14277635M/1/QxM1250-VDHTC_Win10_1.0_A06.exe" releaseID="VDHTC" delta="" type="win">
+    <Name>
+      <Display lang="en"><![CDATA[QxM1250-VDHTC_Win10_1.0_A06.exe]]></Display>
+    </Name>
+    <Description>
+      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
+1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
+2) Create a system-level optimized deployment sequence
+3) Setup an appropriate boot control sequence.
+4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
+    </Description>
+    <SupportedOperatingSystems>
+      <OperatingSystem osCode="Windows10" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+        <Display lang="en"><![CDATA[ Windows 10 x64 ]]></Display>
+        <SupportedLanguages>
+          <Language lang="en">English</Language>
+        </SupportedLanguages>
+      </OperatingSystem>
+    </SupportedOperatingSystems>
+    <SupportedSystems>
+      <Brand key="57" prefix="DPD">
+        <Display lang="en"><![CDATA[ Dell Pro Desktops ]]></Display>
+        <Model systemID="0D03" name="QxM1250" rtsDate="2025-03-19T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ QxM1250 ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="57" prefix="DPD">
+        <Display lang="en"><![CDATA[ Dell Pro Desktops ]]></Display>
+        <Model systemID="0D04" name="QxM1250" rtsDate="2025-03-19T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ QxM1250 ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="57" prefix="DPD">
+        <Display lang="en"><![CDATA[ Dell Pro Desktops ]]></Display>
+        <Model systemID="0D05" name="QxM1250" rtsDate="2025-03-19T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ QxM1250 ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="57" prefix="DPD">
+        <Display lang="en"><![CDATA[ Dell Pro Desktops ]]></Display>
+        <Model systemID="0D06" name="QxM1250" rtsDate="2025-03-19T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ QxM1250 ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="57" prefix="DPD">
+        <Display lang="en"><![CDATA[ Dell Pro Desktops ]]></Display>
+        <Model systemID="0D1A" name="QxM1250" rtsDate="2025-03-19T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ QxM1250 ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="57" prefix="DPD">
+        <Display lang="en"><![CDATA[ Dell Pro Desktops ]]></Display>
+        <Model systemID="0D1B" name="QxM1250" rtsDate="2025-03-19T16:00:00" generation="">
+          <Display lang="en"><![CDATA[ QxM1250 ]]></Display>
+        </Model>
+      </Brand>
+    </SupportedSystems>
+    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=VDHTC">
+      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
+    </ImportantInfo>
+    <Cryptography>
+      <Hash algorithm="MD5">D3E07FA311D32EB87BF1CB75D185AF91</Hash>
+      <Hash algorithm="SHA1">CFEE39A6C4761F9F36939A3019B474B8F87D8142</Hash>
+      <Hash algorithm="SHA256">282B821A3B124A0F1E7A137A92C5DE7F50AD93BF76C374CE181C59222140F925</Hash>
+    </Cryptography>
+    <DriverPackMetadataInfo>
+      <Size>3345424</Size>
+      <path>FOLDER14277560M/1/QxM1250-VDHTC_Win10_1.0_A06.xml</path>
+      <Cryptography>
+        <Hash algorithm="MD5">7AE982311A2E19AFF14AFA0B929472AF</Hash>
+        <Hash algorithm="SHA1">1DB251B6FE793BE1E0F060755AB51EEAB409D73E</Hash>
+        <Hash algorithm="SHA256">7624147BDAD34793C40CE03BC4ADF754F74F0296276A1BFA8DA444ACE1CFF863</Hash>
+      </Cryptography>
+    </DriverPackMetadataInfo>
+  </DriverPackage>
+  <DriverPackage format="exe" hashMD5="AF605136FCB3695687E8E112AFF7CC96" size="2954123368" dateTime="2026-06-08T00:22:12" vendorVersion="1.0" dellVersion="A20" path="FOLDER14630213M/1/Precision-3260-Compact-RTTN2_Win10_1.0_A19.exe" releaseID="RTTN2" delta="" type="win">
+    <Name>
+      <Display lang="en"><![CDATA[Precision-3260-Compact-RTTN2_Win10_1.0_A19.exe]]></Display>
+    </Name>
+    <Description>
+      <Display lang="en"><![CDATA[With the Dell Command Deploy Driver Packs, an I/T Administrator can perform the following tasks:
+1) Use Microsoft Windows OS-based PnP enumeration capabilities to install drivers for applicable devices
+2) Create a system-level optimized deployment sequence
+3) Setup an appropriate boot control sequence.
+4) Optimize the deployment of targeted system-specific driver packages.]]></Display>
+    </Description>
+    <SupportedOperatingSystems>
+      <OperatingSystem osCode="Windows10" osVendor="Microsoft" osArch="x64" osType="client" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+        <Display lang="en"><![CDATA[ Windows 10 x64 ]]></Display>
+        <SupportedLanguages>
+          <Language lang="en">English</Language>
+        </SupportedLanguages>
+      </OperatingSystem>
+    </SupportedOperatingSystems>
+    <SupportedSystems>
+      <Brand key="11" prefix="PRE">
+        <Display lang="en"><![CDATA[ Precision ]]></Display>
+        <Model systemID="0AC9" name="Precision 3260 Compact" rtsDate="2022-03-17T05:00:00" generation="TBD">
+          <Display lang="en"><![CDATA[ Precision 3260 Compact ]]></Display>
+        </Model>
+      </Brand>
+      <Brand key="11" prefix="PRE">
+        <Display lang="en"><![CDATA[ Precision ]]></Display>
+        <Model systemID="0ACA" name="Precision 3260 Compact" rtsDate="2022-03-17T05:00:00" generation="TBD">
+          <Display lang="en"><![CDATA[ Precision 3260 Compact ]]></Display>
+        </Model>
+      </Brand>
+    </SupportedSystems>
+    <ImportantInfo URL="http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=RTTN2">
+      <Display lang="en"><![CDATA[Please visit http://Dell.com/Command for additional help on using CABs for OS Deployment.]]></Display>
+    </ImportantInfo>
+    <Cryptography>
+      <Hash algorithm="MD5">AF605136FCB3695687E8E112AFF7CC96</Hash>
+      <Hash algorithm="SHA1">1BA2DA361B33CFEEB8FF517710757EB327870754</Hash>
+      <Hash algorithm="SHA256">94FAA81F213F4E43A7DAA0F1E710C8A7DA996D782B72CB5B69AA4E318538FD11</Hash>
+    </Cryptography>
+    <DriverPackMetadataInfo>
+      <Size>725688</Size>
+      <path>FOLDER14630191M/1/Precision-3260-Compact-RTTN2_Win10_1.0_A19.xml</path>
+      <Cryptography>
+        <Hash algorithm="MD5">C4188E761DD976392F4330C2A0CC1BE5</Hash>
+        <Hash algorithm="SHA1">BEAEFEF3CE8A718FF2EEAC1C05E4A438088A53DF</Hash>
+        <Hash algorithm="SHA256">DDE394F4CCB0599EF3E3B5BFFA7B30C68A6FB442245E264BBF6DBB858C16F165</Hash>
       </Cryptography>
     </DriverPackMetadataInfo>
   </DriverPackage>
